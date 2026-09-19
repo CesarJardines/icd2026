@@ -1,0 +1,18 @@
+name: icd-practica-anuies
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14.7
+  - pip
+  - pip:
+      - numpy==2.5.3
+      - pandas==3.0.6
+      - python-dateutil==2.9.0.post0
+      - six==1.17.0
+      # Necesarias para las gráficas del notebook (histogramas, boxplots,
+      # heatmaps, barras apiladas), pero no aparecían en el conda list
+      # original. Se agregan sin versión fija porque aún no se confirma
+      # cuál instalaste; ajusta con "pip freeze" una vez instaladas.
+      - matplotlib
+      - seaborn
