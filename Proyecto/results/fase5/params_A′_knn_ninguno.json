@@ -1,0 +1,32 @@
+[
+ {
+  "fold": 0,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9161
+ },
+ {
+  "fold": 1,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.8863
+ },
+ {
+  "fold": 2,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.89
+ },
+ {
+  "fold": 3,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.8797
+ },
+ {
+  "fold": 4,
+  "modelo__n_neighbors": 15,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9152
+ }
+]

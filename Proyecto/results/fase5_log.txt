@@ -1,0 +1,15 @@
+UCI HAR: X = (10299, 561), 30 sujetos, 857 segmentos
+  A   dummy_frecuente      F1 fold = 0.053   (0 s)
+  A   dummy_estratificado  F1 fold = 0.166   (0 s)
+  A   rf                   F1 fold = 0.978   (168 s)
+  A   knn                  F1 fold = 0.963   (12 s)
+  A′  dummy_frecuente      F1 fold = 0.053   (0 s)
+  A′  dummy_estratificado  F1 fold = 0.156   (0 s)
+  A′  rf                   F1 fold = 0.958   (116 s)
+  A′  knn                  F1 fold = 0.921   (8 s)
+  B   dummy_frecuente      F1 fold = 0.053   (0 s)
+  B   dummy_estratificado  F1 fold = 0.171   (0 s)
+  B   rf                   F1 fold = 0.930   (1210 s)
+  B   knn                  F1 fold = 0.893   (80 s)
+
+Listo.

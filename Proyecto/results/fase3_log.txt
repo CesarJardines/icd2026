@@ -1,0 +1,38 @@
+Construyendo el dataset…
+X = (7435, 196); sujetos de prueba en C: (101, 102, 107)
+
+1. Experimento de balanceo
+  A   rf                   ninguno   F1 fold = 0.964   (68 s)
+  A   rf                   balanced  F1 fold = 0.964   (65 s)
+  A   svm                  ninguno   F1 fold = 0.972   (13 s)
+  A   svm                  balanced  F1 fold = 0.971   (13 s)
+  B   rf                   ninguno   F1 fold = 0.938   (136 s)
+  B   rf                   balanced  F1 fold = 0.934   (131 s)
+  B   svm                  ninguno   F1 fold = 0.923   (26 s)
+  B   svm                  balanced  F1 fold = 0.918   (26 s)
+
+2. Balanceo elegido: {'rf': {'elegido': 'ninguno', 'f1_B': {'ninguno': np.float64(0.938), 'balanced': np.float64(0.9345)}}, 'svm': {'elegido': 'ninguno', 'f1_B': {'ninguno': np.float64(0.9229), 'balanced': np.float64(0.9183)}}}
+
+3. Modelos × esquemas
+  A   dummy_frecuente      ninguno   F1 fold = 0.018   (0 s)
+  A   dummy_estratificado  ninguno   F1 fold = 0.085   (0 s)
+  ya existe: pred_A_rf_ninguno.csv
+  ya existe: pred_A_svm_ninguno.csv
+  A   knn                  ninguno   F1 fold = 0.959   (3 s)
+  A′  dummy_frecuente      ninguno   F1 fold = 0.018   (0 s)
+  A′  dummy_estratificado  ninguno   F1 fold = 0.092   (0 s)
+  A′  rf                   ninguno   F1 fold = 0.940   (61 s)
+  A′  svm                  ninguno   F1 fold = 0.948   (12 s)
+  A′  knn                  ninguno   F1 fold = 0.936   (3 s)
+  B   dummy_frecuente      ninguno   F1 fold = 0.018   (0 s)
+  B   dummy_estratificado  ninguno   F1 fold = 0.106   (0 s)
+  ya existe: pred_B_rf_ninguno.csv
+  ya existe: pred_B_svm_ninguno.csv
+  B   knn                  ninguno   F1 fold = 0.914   (6 s)
+  C   dummy_frecuente      ninguno   F1 fold = 0.017   (0 s)
+  C   dummy_estratificado  ninguno   F1 fold = 0.087   (0 s)
+  C   rf                   ninguno   F1 fold = 0.916   (9 s)
+  C   svm                  ninguno   F1 fold = 0.909   (2 s)
+  C   knn                  ninguno   F1 fold = 0.928   (1 s)
+
+Listo.

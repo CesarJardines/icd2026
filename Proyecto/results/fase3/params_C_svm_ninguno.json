@@ -1,0 +1,8 @@
+[
+ {
+  "fold": 0,
+  "modelo__C": 1,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.8162
+ }
+]

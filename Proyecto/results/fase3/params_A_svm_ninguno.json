@@ -1,0 +1,32 @@
+[
+ {
+  "fold": 0,
+  "modelo__C": 10,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.9677
+ },
+ {
+  "fold": 1,
+  "modelo__C": 10,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.9686
+ },
+ {
+  "fold": 2,
+  "modelo__C": 10,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.9692
+ },
+ {
+  "fold": 3,
+  "modelo__C": 10,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.9693
+ },
+ {
+  "fold": 4,
+  "modelo__C": 10,
+  "modelo__gamma": "scale",
+  "f1_interno": 0.9687
+ }
+]

@@ -1,0 +1,9 @@
+modelo,esquema,balanceo,F1 macro (fold),F1 saltar cuerda,F1 correr,F1 subir escaleras,F1 bajar escaleras
+Random Forest,A,balanced,0.964,0.963,0.973,0.964,0.947
+Random Forest,A,ninguno,0.964,0.963,0.973,0.958,0.948
+Random Forest,B,balanced,0.934,0.946,0.966,0.934,0.928
+Random Forest,B,ninguno,0.938,0.946,0.966,0.946,0.934
+SVM,A,balanced,0.971,0.97,0.971,0.962,0.948
+SVM,A,ninguno,0.972,0.97,0.971,0.965,0.951
+SVM,B,balanced,0.918,0.695,0.813,0.936,0.912
+SVM,B,ninguno,0.923,0.701,0.822,0.94,0.93

@@ -1,0 +1,11 @@
+,A,A,B,B
+,mean,std,mean,std
+grupo,,,,
+frecuencia cardiaca,0.0009,0.0005,0.0023,0.0041
+temperatura (3 IMU),0.0025,0.0015,0.0065,0.0041
+muñeca · giroscopio,0.0044,0.0023,0.0108,0.0087
+pecho · giroscopio,0.0102,0.0028,0.0257,0.012
+tobillo · acelerómetro,0.0827,0.0096,0.1123,0.0168
+tobillo · giroscopio,0.1636,0.0223,0.1793,0.0325
+pecho · acelerómetro,0.1499,0.0241,0.1835,0.0417
+muñeca · acelerómetro,0.1569,0.0133,0.1884,0.045

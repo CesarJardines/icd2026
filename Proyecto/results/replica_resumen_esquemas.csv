@@ -1,0 +1,13 @@
+modelo,esquema,balanceo,folds,f1_fold_media,f1_fold_std,f1_agrupado,f1_ponderado,exactitud
+Base: estratificada,A,ninguno,5,0.166,0.0084,0.166,0.1673,0.1674
+Base: más frecuente,A,ninguno,5,0.0529,0.0001,0.0529,0.0599,0.1888
+kNN,A,ninguno,5,0.9626,0.0042,0.9626,0.9611,0.9611
+Random Forest,A,ninguno,5,0.9784,0.0026,0.9784,0.9784,0.9784
+Base: estratificada,A′,ninguno,5,0.156,0.0069,0.1564,0.1597,0.1611
+Base: más frecuente,A′,ninguno,5,0.0531,0.0019,0.0529,0.0599,0.1888
+kNN,A′,ninguno,5,0.9207,0.0288,0.9191,0.9172,0.9174
+Random Forest,A′,ninguno,5,0.9582,0.0249,0.9565,0.9566,0.9566
+Base: estratificada,B,ninguno,30,0.1709,0.0192,0.171,0.1734,0.1734
+Base: más frecuente,B,ninguno,30,0.0527,0.0047,0.0529,0.0599,0.1888
+kNN,B,ninguno,30,0.8935,0.0566,0.8959,0.8977,0.8979
+Random Forest,B,ninguno,30,0.9297,0.0634,0.9341,0.9355,0.9354

@@ -1,0 +1,52 @@
+Construyendo el dataset…
+
+1. Importancia por permutación
+    B fold 0: 11 s
+    B fold 1: 7 s
+    B fold 2: 7 s
+    B fold 3: 7 s
+    B fold 4: 7 s
+    B fold 5: 7 s
+    B fold 6: 6 s
+    B fold 7: 7 s
+    B fold 8: 6 s
+  listo: perm_atributos_B.csv, perm_grupos_B.csv (65 s)
+    A fold 0: 8 s
+    A fold 1: 7 s
+    A fold 2: 7 s
+    A fold 3: 7 s
+    A fold 4: 7 s
+  listo: perm_atributos_A.csv, perm_grupos_A.csv (36 s)
+
+2. Información mutua
+    MI fold 0
+    MI fold 1
+    MI fold 2
+    MI fold 3
+    MI fold 4
+    MI fold 5
+    MI fold 6
+    MI fold 7
+    MI fold 8
+  listo: info_mutua_B.csv (7 s)
+
+3. RFE en LOSO
+    RFE fold 0: 28 s
+    RFE fold 1: 24 s
+    RFE fold 2: 24 s
+    RFE fold 3: 24 s
+    RFE fold 4: 22 s
+    RFE fold 5: 22 s
+    RFE fold 6: 22 s
+    RFE fold 7: 22 s
+    RFE fold 8: 26 s
+  listo: rfe_curva_B.csv, rfe_ranking_B.csv (216 s)
+
+4. PCA en LOSO
+  listo: pca_B.csv (7 s)
+
+Listo.
+5. Sin atributos ligados a la persona (temperatura y FC)
+  listo: sin_persona_B.csv (24 s)
+
+Listo.

@@ -1,0 +1,32 @@
+[
+ {
+  "fold": 0,
+  "modelo__n_neighbors": 1,
+  "modelo__weights": "uniform",
+  "f1_interno": 0.9576
+ },
+ {
+  "fold": 1,
+  "modelo__n_neighbors": 1,
+  "modelo__weights": "uniform",
+  "f1_interno": 0.9552
+ },
+ {
+  "fold": 2,
+  "modelo__n_neighbors": 1,
+  "modelo__weights": "uniform",
+  "f1_interno": 0.9563
+ },
+ {
+  "fold": 3,
+  "modelo__n_neighbors": 1,
+  "modelo__weights": "uniform",
+  "f1_interno": 0.9579
+ },
+ {
+  "fold": 4,
+  "modelo__n_neighbors": 1,
+  "modelo__weights": "uniform",
+  "f1_interno": 0.953
+ }
+]

@@ -1,0 +1,8 @@
+[
+ {
+  "fold": 0,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.8771
+ }
+]

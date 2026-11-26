@@ -1,0 +1,8 @@
+[
+ {
+  "fold": 0,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.8843
+ }
+]

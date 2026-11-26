@@ -1,0 +1,16 @@
+{
+ "rf": {
+  "elegido": "ninguno",
+  "f1_B": {
+   "ninguno": 0.938,
+   "balanced": 0.9345
+  }
+ },
+ "svm": {
+  "elegido": "ninguno",
+  "f1_B": {
+   "ninguno": 0.9229,
+   "balanced": 0.9183
+  }
+ }
+}

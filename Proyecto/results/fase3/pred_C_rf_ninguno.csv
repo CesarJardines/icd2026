@@ -1,0 +1,2855 @@
+esquema,modelo,balanceo,fold,indice,sujeto,y_real,y_pred
+C,rf,ninguno,0,0,101,acostado,planchar
+C,rf,ninguno,0,1,101,acostado,planchar
+C,rf,ninguno,0,2,101,acostado,planchar
+C,rf,ninguno,0,3,101,acostado,acostado
+C,rf,ninguno,0,4,101,acostado,acostado
+C,rf,ninguno,0,5,101,acostado,acostado
+C,rf,ninguno,0,6,101,acostado,acostado
+C,rf,ninguno,0,7,101,acostado,acostado
+C,rf,ninguno,0,8,101,acostado,acostado
+C,rf,ninguno,0,9,101,acostado,acostado
+C,rf,ninguno,0,10,101,acostado,acostado
+C,rf,ninguno,0,11,101,acostado,acostado
+C,rf,ninguno,0,12,101,acostado,acostado
+C,rf,ninguno,0,13,101,acostado,acostado
+C,rf,ninguno,0,14,101,acostado,acostado
+C,rf,ninguno,0,15,101,acostado,acostado
+C,rf,ninguno,0,16,101,acostado,acostado
+C,rf,ninguno,0,17,101,acostado,acostado
+C,rf,ninguno,0,18,101,acostado,acostado
+C,rf,ninguno,0,19,101,acostado,acostado
+C,rf,ninguno,0,20,101,acostado,acostado
+C,rf,ninguno,0,21,101,acostado,acostado
+C,rf,ninguno,0,22,101,acostado,acostado
+C,rf,ninguno,0,23,101,acostado,acostado
+C,rf,ninguno,0,24,101,acostado,acostado
+C,rf,ninguno,0,25,101,acostado,acostado
+C,rf,ninguno,0,26,101,acostado,acostado
+C,rf,ninguno,0,27,101,acostado,acostado
+C,rf,ninguno,0,28,101,acostado,acostado
+C,rf,ninguno,0,29,101,acostado,acostado
+C,rf,ninguno,0,30,101,acostado,acostado
+C,rf,ninguno,0,31,101,acostado,acostado
+C,rf,ninguno,0,32,101,acostado,acostado
+C,rf,ninguno,0,33,101,acostado,acostado
+C,rf,ninguno,0,34,101,acostado,acostado
+C,rf,ninguno,0,35,101,acostado,acostado
+C,rf,ninguno,0,36,101,acostado,acostado
+C,rf,ninguno,0,37,101,acostado,acostado
+C,rf,ninguno,0,38,101,acostado,acostado
+C,rf,ninguno,0,39,101,acostado,acostado
+C,rf,ninguno,0,40,101,acostado,acostado
+C,rf,ninguno,0,41,101,acostado,acostado
+C,rf,ninguno,0,42,101,acostado,acostado
+C,rf,ninguno,0,43,101,acostado,acostado
+C,rf,ninguno,0,44,101,acostado,acostado
+C,rf,ninguno,0,45,101,acostado,acostado
+C,rf,ninguno,0,46,101,acostado,acostado
+C,rf,ninguno,0,47,101,acostado,acostado
+C,rf,ninguno,0,48,101,acostado,acostado
+C,rf,ninguno,0,49,101,acostado,acostado
+C,rf,ninguno,0,50,101,acostado,acostado
+C,rf,ninguno,0,51,101,acostado,acostado
+C,rf,ninguno,0,52,101,acostado,acostado
+C,rf,ninguno,0,53,101,acostado,acostado
+C,rf,ninguno,0,54,101,acostado,acostado
+C,rf,ninguno,0,55,101,acostado,acostado
+C,rf,ninguno,0,56,101,acostado,acostado
+C,rf,ninguno,0,57,101,acostado,acostado
+C,rf,ninguno,0,58,101,acostado,acostado
+C,rf,ninguno,0,59,101,acostado,acostado
+C,rf,ninguno,0,60,101,acostado,acostado
+C,rf,ninguno,0,61,101,acostado,acostado
+C,rf,ninguno,0,62,101,acostado,acostado
+C,rf,ninguno,0,63,101,acostado,acostado
+C,rf,ninguno,0,64,101,acostado,acostado
+C,rf,ninguno,0,65,101,acostado,acostado
+C,rf,ninguno,0,66,101,acostado,acostado
+C,rf,ninguno,0,67,101,acostado,acostado
+C,rf,ninguno,0,68,101,acostado,acostado
+C,rf,ninguno,0,69,101,acostado,acostado
+C,rf,ninguno,0,70,101,acostado,acostado
+C,rf,ninguno,0,71,101,acostado,acostado
+C,rf,ninguno,0,72,101,acostado,acostado
+C,rf,ninguno,0,73,101,acostado,acostado
+C,rf,ninguno,0,74,101,acostado,acostado
+C,rf,ninguno,0,75,101,acostado,acostado
+C,rf,ninguno,0,76,101,acostado,acostado
+C,rf,ninguno,0,77,101,acostado,acostado
+C,rf,ninguno,0,78,101,acostado,acostado
+C,rf,ninguno,0,79,101,acostado,acostado
+C,rf,ninguno,0,80,101,acostado,acostado
+C,rf,ninguno,0,81,101,acostado,acostado
+C,rf,ninguno,0,82,101,acostado,acostado
+C,rf,ninguno,0,83,101,acostado,acostado
+C,rf,ninguno,0,84,101,acostado,acostado
+C,rf,ninguno,0,85,101,acostado,acostado
+C,rf,ninguno,0,86,101,acostado,acostado
+C,rf,ninguno,0,87,101,acostado,acostado
+C,rf,ninguno,0,88,101,acostado,acostado
+C,rf,ninguno,0,89,101,acostado,acostado
+C,rf,ninguno,0,90,101,acostado,acostado
+C,rf,ninguno,0,91,101,acostado,acostado
+C,rf,ninguno,0,92,101,acostado,acostado
+C,rf,ninguno,0,93,101,acostado,acostado
+C,rf,ninguno,0,94,101,acostado,acostado
+C,rf,ninguno,0,95,101,acostado,acostado
+C,rf,ninguno,0,96,101,acostado,acostado
+C,rf,ninguno,0,97,101,acostado,acostado
+C,rf,ninguno,0,98,101,acostado,acostado
+C,rf,ninguno,0,99,101,acostado,acostado
+C,rf,ninguno,0,100,101,acostado,acostado
+C,rf,ninguno,0,101,101,acostado,acostado
+C,rf,ninguno,0,102,101,acostado,acostado
+C,rf,ninguno,0,103,101,acostado,bicicleta
+C,rf,ninguno,0,104,101,acostado,planchar
+C,rf,ninguno,0,105,101,sentado,de pie
+C,rf,ninguno,0,106,101,sentado,de pie
+C,rf,ninguno,0,107,101,sentado,planchar
+C,rf,ninguno,0,108,101,sentado,planchar
+C,rf,ninguno,0,109,101,sentado,planchar
+C,rf,ninguno,0,110,101,sentado,planchar
+C,rf,ninguno,0,111,101,sentado,sentado
+C,rf,ninguno,0,112,101,sentado,sentado
+C,rf,ninguno,0,113,101,sentado,planchar
+C,rf,ninguno,0,114,101,sentado,sentado
+C,rf,ninguno,0,115,101,sentado,sentado
+C,rf,ninguno,0,116,101,sentado,sentado
+C,rf,ninguno,0,117,101,sentado,sentado
+C,rf,ninguno,0,118,101,sentado,planchar
+C,rf,ninguno,0,119,101,sentado,aspirar
+C,rf,ninguno,0,120,101,sentado,aspirar
+C,rf,ninguno,0,121,101,sentado,sentado
+C,rf,ninguno,0,122,101,sentado,sentado
+C,rf,ninguno,0,123,101,sentado,sentado
+C,rf,ninguno,0,124,101,sentado,sentado
+C,rf,ninguno,0,125,101,sentado,sentado
+C,rf,ninguno,0,126,101,sentado,sentado
+C,rf,ninguno,0,127,101,sentado,sentado
+C,rf,ninguno,0,128,101,sentado,sentado
+C,rf,ninguno,0,129,101,sentado,sentado
+C,rf,ninguno,0,130,101,sentado,sentado
+C,rf,ninguno,0,131,101,sentado,sentado
+C,rf,ninguno,0,132,101,sentado,sentado
+C,rf,ninguno,0,133,101,sentado,sentado
+C,rf,ninguno,0,134,101,sentado,sentado
+C,rf,ninguno,0,135,101,sentado,sentado
+C,rf,ninguno,0,136,101,sentado,sentado
+C,rf,ninguno,0,137,101,sentado,sentado
+C,rf,ninguno,0,138,101,sentado,sentado
+C,rf,ninguno,0,139,101,sentado,sentado
+C,rf,ninguno,0,140,101,sentado,sentado
+C,rf,ninguno,0,141,101,sentado,sentado
+C,rf,ninguno,0,142,101,sentado,sentado
+C,rf,ninguno,0,143,101,sentado,sentado
+C,rf,ninguno,0,144,101,sentado,sentado
+C,rf,ninguno,0,145,101,sentado,sentado
+C,rf,ninguno,0,146,101,sentado,sentado
+C,rf,ninguno,0,147,101,sentado,sentado
+C,rf,ninguno,0,148,101,sentado,sentado
+C,rf,ninguno,0,149,101,sentado,sentado
+C,rf,ninguno,0,150,101,sentado,sentado
+C,rf,ninguno,0,151,101,sentado,sentado
+C,rf,ninguno,0,152,101,sentado,sentado
+C,rf,ninguno,0,153,101,sentado,sentado
+C,rf,ninguno,0,154,101,sentado,sentado
+C,rf,ninguno,0,155,101,sentado,sentado
+C,rf,ninguno,0,156,101,sentado,sentado
+C,rf,ninguno,0,157,101,sentado,sentado
+C,rf,ninguno,0,158,101,sentado,sentado
+C,rf,ninguno,0,159,101,sentado,sentado
+C,rf,ninguno,0,160,101,sentado,sentado
+C,rf,ninguno,0,161,101,sentado,sentado
+C,rf,ninguno,0,162,101,sentado,sentado
+C,rf,ninguno,0,163,101,sentado,sentado
+C,rf,ninguno,0,164,101,sentado,sentado
+C,rf,ninguno,0,165,101,sentado,sentado
+C,rf,ninguno,0,166,101,sentado,sentado
+C,rf,ninguno,0,167,101,sentado,sentado
+C,rf,ninguno,0,168,101,sentado,sentado
+C,rf,ninguno,0,169,101,sentado,sentado
+C,rf,ninguno,0,170,101,sentado,sentado
+C,rf,ninguno,0,171,101,sentado,sentado
+C,rf,ninguno,0,172,101,sentado,sentado
+C,rf,ninguno,0,173,101,sentado,sentado
+C,rf,ninguno,0,174,101,sentado,de pie
+C,rf,ninguno,0,175,101,sentado,de pie
+C,rf,ninguno,0,176,101,sentado,de pie
+C,rf,ninguno,0,177,101,sentado,de pie
+C,rf,ninguno,0,178,101,sentado,de pie
+C,rf,ninguno,0,179,101,sentado,de pie
+C,rf,ninguno,0,180,101,sentado,de pie
+C,rf,ninguno,0,181,101,sentado,de pie
+C,rf,ninguno,0,182,101,sentado,de pie
+C,rf,ninguno,0,183,101,sentado,de pie
+C,rf,ninguno,0,184,101,sentado,de pie
+C,rf,ninguno,0,185,101,sentado,de pie
+C,rf,ninguno,0,186,101,sentado,de pie
+C,rf,ninguno,0,187,101,sentado,de pie
+C,rf,ninguno,0,188,101,sentado,de pie
+C,rf,ninguno,0,189,101,sentado,de pie
+C,rf,ninguno,0,190,101,sentado,de pie
+C,rf,ninguno,0,191,101,sentado,de pie
+C,rf,ninguno,0,192,101,sentado,de pie
+C,rf,ninguno,0,193,101,sentado,de pie
+C,rf,ninguno,0,194,101,sentado,planchar
+C,rf,ninguno,0,195,101,de pie,sentado
+C,rf,ninguno,0,196,101,de pie,sentado
+C,rf,ninguno,0,197,101,de pie,sentado
+C,rf,ninguno,0,198,101,de pie,sentado
+C,rf,ninguno,0,199,101,de pie,de pie
+C,rf,ninguno,0,200,101,de pie,planchar
+C,rf,ninguno,0,201,101,de pie,planchar
+C,rf,ninguno,0,202,101,de pie,de pie
+C,rf,ninguno,0,203,101,de pie,de pie
+C,rf,ninguno,0,204,101,de pie,de pie
+C,rf,ninguno,0,205,101,de pie,de pie
+C,rf,ninguno,0,206,101,de pie,de pie
+C,rf,ninguno,0,207,101,de pie,de pie
+C,rf,ninguno,0,208,101,de pie,de pie
+C,rf,ninguno,0,209,101,de pie,de pie
+C,rf,ninguno,0,210,101,de pie,de pie
+C,rf,ninguno,0,211,101,de pie,de pie
+C,rf,ninguno,0,212,101,de pie,de pie
+C,rf,ninguno,0,213,101,de pie,de pie
+C,rf,ninguno,0,214,101,de pie,de pie
+C,rf,ninguno,0,215,101,de pie,de pie
+C,rf,ninguno,0,216,101,de pie,planchar
+C,rf,ninguno,0,217,101,de pie,planchar
+C,rf,ninguno,0,218,101,de pie,de pie
+C,rf,ninguno,0,219,101,de pie,de pie
+C,rf,ninguno,0,220,101,de pie,sentado
+C,rf,ninguno,0,221,101,de pie,sentado
+C,rf,ninguno,0,222,101,de pie,planchar
+C,rf,ninguno,0,223,101,de pie,sentado
+C,rf,ninguno,0,224,101,de pie,sentado
+C,rf,ninguno,0,225,101,de pie,de pie
+C,rf,ninguno,0,226,101,de pie,de pie
+C,rf,ninguno,0,227,101,de pie,de pie
+C,rf,ninguno,0,228,101,de pie,de pie
+C,rf,ninguno,0,229,101,de pie,de pie
+C,rf,ninguno,0,230,101,de pie,de pie
+C,rf,ninguno,0,231,101,de pie,de pie
+C,rf,ninguno,0,232,101,de pie,de pie
+C,rf,ninguno,0,233,101,de pie,de pie
+C,rf,ninguno,0,234,101,de pie,de pie
+C,rf,ninguno,0,235,101,de pie,de pie
+C,rf,ninguno,0,236,101,de pie,de pie
+C,rf,ninguno,0,237,101,de pie,de pie
+C,rf,ninguno,0,238,101,de pie,de pie
+C,rf,ninguno,0,239,101,de pie,de pie
+C,rf,ninguno,0,240,101,de pie,de pie
+C,rf,ninguno,0,241,101,de pie,de pie
+C,rf,ninguno,0,242,101,de pie,de pie
+C,rf,ninguno,0,243,101,de pie,de pie
+C,rf,ninguno,0,244,101,de pie,de pie
+C,rf,ninguno,0,245,101,de pie,planchar
+C,rf,ninguno,0,246,101,de pie,sentado
+C,rf,ninguno,0,247,101,de pie,sentado
+C,rf,ninguno,0,248,101,de pie,sentado
+C,rf,ninguno,0,249,101,de pie,sentado
+C,rf,ninguno,0,250,101,de pie,sentado
+C,rf,ninguno,0,251,101,de pie,sentado
+C,rf,ninguno,0,252,101,de pie,sentado
+C,rf,ninguno,0,253,101,de pie,sentado
+C,rf,ninguno,0,254,101,de pie,planchar
+C,rf,ninguno,0,255,101,de pie,de pie
+C,rf,ninguno,0,256,101,de pie,de pie
+C,rf,ninguno,0,257,101,de pie,de pie
+C,rf,ninguno,0,258,101,de pie,de pie
+C,rf,ninguno,0,259,101,de pie,de pie
+C,rf,ninguno,0,260,101,de pie,de pie
+C,rf,ninguno,0,261,101,de pie,de pie
+C,rf,ninguno,0,262,101,de pie,de pie
+C,rf,ninguno,0,263,101,de pie,de pie
+C,rf,ninguno,0,264,101,de pie,de pie
+C,rf,ninguno,0,265,101,de pie,de pie
+C,rf,ninguno,0,266,101,de pie,de pie
+C,rf,ninguno,0,267,101,de pie,de pie
+C,rf,ninguno,0,268,101,de pie,planchar
+C,rf,ninguno,0,269,101,de pie,planchar
+C,rf,ninguno,0,270,101,de pie,sentado
+C,rf,ninguno,0,271,101,de pie,sentado
+C,rf,ninguno,0,272,101,de pie,sentado
+C,rf,ninguno,0,273,101,de pie,sentado
+C,rf,ninguno,0,274,101,de pie,sentado
+C,rf,ninguno,0,275,101,de pie,sentado
+C,rf,ninguno,0,276,101,de pie,sentado
+C,rf,ninguno,0,277,101,de pie,sentado
+C,rf,ninguno,0,278,101,planchar,planchar
+C,rf,ninguno,0,279,101,planchar,planchar
+C,rf,ninguno,0,280,101,planchar,planchar
+C,rf,ninguno,0,281,101,planchar,planchar
+C,rf,ninguno,0,282,101,planchar,planchar
+C,rf,ninguno,0,283,101,planchar,planchar
+C,rf,ninguno,0,284,101,planchar,planchar
+C,rf,ninguno,0,285,101,planchar,planchar
+C,rf,ninguno,0,286,101,planchar,planchar
+C,rf,ninguno,0,287,101,planchar,planchar
+C,rf,ninguno,0,288,101,planchar,planchar
+C,rf,ninguno,0,289,101,planchar,planchar
+C,rf,ninguno,0,290,101,planchar,planchar
+C,rf,ninguno,0,291,101,planchar,planchar
+C,rf,ninguno,0,292,101,planchar,planchar
+C,rf,ninguno,0,293,101,planchar,planchar
+C,rf,ninguno,0,294,101,planchar,planchar
+C,rf,ninguno,0,295,101,planchar,planchar
+C,rf,ninguno,0,296,101,planchar,planchar
+C,rf,ninguno,0,297,101,planchar,planchar
+C,rf,ninguno,0,298,101,planchar,planchar
+C,rf,ninguno,0,299,101,planchar,planchar
+C,rf,ninguno,0,300,101,planchar,planchar
+C,rf,ninguno,0,301,101,planchar,planchar
+C,rf,ninguno,0,302,101,planchar,planchar
+C,rf,ninguno,0,303,101,planchar,planchar
+C,rf,ninguno,0,304,101,planchar,planchar
+C,rf,ninguno,0,305,101,planchar,planchar
+C,rf,ninguno,0,306,101,planchar,planchar
+C,rf,ninguno,0,307,101,planchar,planchar
+C,rf,ninguno,0,308,101,planchar,planchar
+C,rf,ninguno,0,309,101,planchar,planchar
+C,rf,ninguno,0,310,101,planchar,planchar
+C,rf,ninguno,0,311,101,planchar,planchar
+C,rf,ninguno,0,312,101,planchar,planchar
+C,rf,ninguno,0,313,101,planchar,planchar
+C,rf,ninguno,0,314,101,planchar,planchar
+C,rf,ninguno,0,315,101,planchar,planchar
+C,rf,ninguno,0,316,101,planchar,planchar
+C,rf,ninguno,0,317,101,planchar,planchar
+C,rf,ninguno,0,318,101,planchar,planchar
+C,rf,ninguno,0,319,101,planchar,planchar
+C,rf,ninguno,0,320,101,planchar,planchar
+C,rf,ninguno,0,321,101,planchar,planchar
+C,rf,ninguno,0,322,101,planchar,planchar
+C,rf,ninguno,0,323,101,planchar,planchar
+C,rf,ninguno,0,324,101,planchar,planchar
+C,rf,ninguno,0,325,101,planchar,planchar
+C,rf,ninguno,0,326,101,planchar,planchar
+C,rf,ninguno,0,327,101,planchar,planchar
+C,rf,ninguno,0,328,101,planchar,planchar
+C,rf,ninguno,0,329,101,planchar,planchar
+C,rf,ninguno,0,330,101,planchar,planchar
+C,rf,ninguno,0,331,101,planchar,planchar
+C,rf,ninguno,0,332,101,planchar,planchar
+C,rf,ninguno,0,333,101,planchar,planchar
+C,rf,ninguno,0,334,101,planchar,planchar
+C,rf,ninguno,0,335,101,planchar,planchar
+C,rf,ninguno,0,336,101,planchar,planchar
+C,rf,ninguno,0,337,101,planchar,planchar
+C,rf,ninguno,0,338,101,planchar,planchar
+C,rf,ninguno,0,339,101,planchar,planchar
+C,rf,ninguno,0,340,101,planchar,planchar
+C,rf,ninguno,0,341,101,planchar,planchar
+C,rf,ninguno,0,342,101,planchar,planchar
+C,rf,ninguno,0,343,101,planchar,planchar
+C,rf,ninguno,0,344,101,planchar,planchar
+C,rf,ninguno,0,345,101,planchar,planchar
+C,rf,ninguno,0,346,101,planchar,planchar
+C,rf,ninguno,0,347,101,planchar,planchar
+C,rf,ninguno,0,348,101,planchar,planchar
+C,rf,ninguno,0,349,101,planchar,planchar
+C,rf,ninguno,0,350,101,planchar,planchar
+C,rf,ninguno,0,351,101,planchar,planchar
+C,rf,ninguno,0,352,101,planchar,planchar
+C,rf,ninguno,0,353,101,planchar,planchar
+C,rf,ninguno,0,354,101,planchar,planchar
+C,rf,ninguno,0,355,101,planchar,planchar
+C,rf,ninguno,0,356,101,planchar,planchar
+C,rf,ninguno,0,357,101,planchar,planchar
+C,rf,ninguno,0,358,101,planchar,planchar
+C,rf,ninguno,0,359,101,planchar,planchar
+C,rf,ninguno,0,360,101,planchar,planchar
+C,rf,ninguno,0,361,101,planchar,planchar
+C,rf,ninguno,0,362,101,planchar,planchar
+C,rf,ninguno,0,363,101,planchar,planchar
+C,rf,ninguno,0,364,101,planchar,planchar
+C,rf,ninguno,0,365,101,planchar,planchar
+C,rf,ninguno,0,366,101,planchar,planchar
+C,rf,ninguno,0,367,101,planchar,planchar
+C,rf,ninguno,0,368,101,planchar,planchar
+C,rf,ninguno,0,369,101,aspirar,planchar
+C,rf,ninguno,0,370,101,aspirar,aspirar
+C,rf,ninguno,0,371,101,aspirar,aspirar
+C,rf,ninguno,0,372,101,aspirar,aspirar
+C,rf,ninguno,0,373,101,aspirar,aspirar
+C,rf,ninguno,0,374,101,aspirar,aspirar
+C,rf,ninguno,0,375,101,aspirar,aspirar
+C,rf,ninguno,0,376,101,aspirar,aspirar
+C,rf,ninguno,0,377,101,aspirar,aspirar
+C,rf,ninguno,0,378,101,aspirar,aspirar
+C,rf,ninguno,0,379,101,aspirar,aspirar
+C,rf,ninguno,0,380,101,aspirar,aspirar
+C,rf,ninguno,0,381,101,aspirar,aspirar
+C,rf,ninguno,0,382,101,aspirar,aspirar
+C,rf,ninguno,0,383,101,aspirar,aspirar
+C,rf,ninguno,0,384,101,aspirar,aspirar
+C,rf,ninguno,0,385,101,aspirar,aspirar
+C,rf,ninguno,0,386,101,aspirar,aspirar
+C,rf,ninguno,0,387,101,aspirar,aspirar
+C,rf,ninguno,0,388,101,aspirar,aspirar
+C,rf,ninguno,0,389,101,aspirar,aspirar
+C,rf,ninguno,0,390,101,aspirar,aspirar
+C,rf,ninguno,0,391,101,aspirar,aspirar
+C,rf,ninguno,0,392,101,aspirar,aspirar
+C,rf,ninguno,0,393,101,aspirar,aspirar
+C,rf,ninguno,0,394,101,aspirar,aspirar
+C,rf,ninguno,0,395,101,aspirar,aspirar
+C,rf,ninguno,0,396,101,aspirar,aspirar
+C,rf,ninguno,0,397,101,aspirar,aspirar
+C,rf,ninguno,0,398,101,aspirar,aspirar
+C,rf,ninguno,0,399,101,aspirar,aspirar
+C,rf,ninguno,0,400,101,aspirar,aspirar
+C,rf,ninguno,0,401,101,aspirar,aspirar
+C,rf,ninguno,0,402,101,aspirar,aspirar
+C,rf,ninguno,0,403,101,aspirar,aspirar
+C,rf,ninguno,0,404,101,aspirar,aspirar
+C,rf,ninguno,0,405,101,aspirar,aspirar
+C,rf,ninguno,0,406,101,aspirar,aspirar
+C,rf,ninguno,0,407,101,aspirar,aspirar
+C,rf,ninguno,0,408,101,aspirar,aspirar
+C,rf,ninguno,0,409,101,aspirar,aspirar
+C,rf,ninguno,0,410,101,aspirar,aspirar
+C,rf,ninguno,0,411,101,aspirar,aspirar
+C,rf,ninguno,0,412,101,aspirar,aspirar
+C,rf,ninguno,0,413,101,aspirar,aspirar
+C,rf,ninguno,0,414,101,aspirar,aspirar
+C,rf,ninguno,0,415,101,aspirar,aspirar
+C,rf,ninguno,0,416,101,aspirar,aspirar
+C,rf,ninguno,0,417,101,aspirar,aspirar
+C,rf,ninguno,0,418,101,aspirar,aspirar
+C,rf,ninguno,0,419,101,aspirar,aspirar
+C,rf,ninguno,0,420,101,aspirar,aspirar
+C,rf,ninguno,0,421,101,aspirar,aspirar
+C,rf,ninguno,0,422,101,aspirar,aspirar
+C,rf,ninguno,0,423,101,aspirar,aspirar
+C,rf,ninguno,0,424,101,aspirar,aspirar
+C,rf,ninguno,0,425,101,aspirar,aspirar
+C,rf,ninguno,0,426,101,aspirar,aspirar
+C,rf,ninguno,0,427,101,aspirar,aspirar
+C,rf,ninguno,0,428,101,aspirar,aspirar
+C,rf,ninguno,0,429,101,aspirar,aspirar
+C,rf,ninguno,0,430,101,aspirar,aspirar
+C,rf,ninguno,0,431,101,aspirar,aspirar
+C,rf,ninguno,0,432,101,aspirar,aspirar
+C,rf,ninguno,0,433,101,aspirar,aspirar
+C,rf,ninguno,0,434,101,aspirar,aspirar
+C,rf,ninguno,0,435,101,aspirar,aspirar
+C,rf,ninguno,0,436,101,aspirar,aspirar
+C,rf,ninguno,0,437,101,aspirar,aspirar
+C,rf,ninguno,0,438,101,aspirar,aspirar
+C,rf,ninguno,0,439,101,aspirar,aspirar
+C,rf,ninguno,0,440,101,aspirar,aspirar
+C,rf,ninguno,0,441,101,aspirar,aspirar
+C,rf,ninguno,0,442,101,aspirar,aspirar
+C,rf,ninguno,0,443,101,aspirar,aspirar
+C,rf,ninguno,0,444,101,aspirar,aspirar
+C,rf,ninguno,0,445,101,aspirar,aspirar
+C,rf,ninguno,0,446,101,aspirar,aspirar
+C,rf,ninguno,0,447,101,aspirar,aspirar
+C,rf,ninguno,0,448,101,aspirar,aspirar
+C,rf,ninguno,0,449,101,aspirar,aspirar
+C,rf,ninguno,0,450,101,aspirar,aspirar
+C,rf,ninguno,0,451,101,aspirar,aspirar
+C,rf,ninguno,0,452,101,aspirar,aspirar
+C,rf,ninguno,0,453,101,aspirar,aspirar
+C,rf,ninguno,0,454,101,aspirar,aspirar
+C,rf,ninguno,0,455,101,aspirar,aspirar
+C,rf,ninguno,0,456,101,aspirar,planchar
+C,rf,ninguno,0,457,101,subir escaleras,planchar
+C,rf,ninguno,0,458,101,subir escaleras,aspirar
+C,rf,ninguno,0,459,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,460,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,461,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,462,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,463,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,464,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,465,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,466,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,467,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,468,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,469,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,470,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,471,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,472,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,473,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,474,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,475,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,476,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,477,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,478,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,479,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,480,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,481,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,482,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,483,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,484,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,485,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,486,101,subir escaleras,planchar
+C,rf,ninguno,0,487,101,bajar escaleras,planchar
+C,rf,ninguno,0,488,101,bajar escaleras,aspirar
+C,rf,ninguno,0,489,101,bajar escaleras,subir escaleras
+C,rf,ninguno,0,490,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,491,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,492,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,493,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,494,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,495,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,496,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,497,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,498,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,499,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,500,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,501,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,502,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,503,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,504,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,505,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,506,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,507,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,508,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,509,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,510,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,511,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,512,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,513,101,bajar escaleras,planchar
+C,rf,ninguno,0,514,101,bajar escaleras,planchar
+C,rf,ninguno,0,515,101,subir escaleras,planchar
+C,rf,ninguno,0,516,101,subir escaleras,aspirar
+C,rf,ninguno,0,517,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,518,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,519,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,520,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,521,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,522,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,523,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,524,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,525,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,526,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,527,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,528,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,529,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,530,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,531,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,532,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,533,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,534,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,535,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,536,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,537,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,538,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,539,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,540,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,541,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,542,101,subir escaleras,subir escaleras
+C,rf,ninguno,0,543,101,subir escaleras,aspirar
+C,rf,ninguno,0,544,101,bajar escaleras,planchar
+C,rf,ninguno,0,545,101,bajar escaleras,aspirar
+C,rf,ninguno,0,546,101,bajar escaleras,subir escaleras
+C,rf,ninguno,0,547,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,548,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,549,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,550,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,551,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,552,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,553,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,554,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,555,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,556,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,557,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,558,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,559,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,560,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,561,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,562,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,563,101,bajar escaleras,caminar
+C,rf,ninguno,0,564,101,bajar escaleras,caminar
+C,rf,ninguno,0,565,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,566,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,567,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,568,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,569,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,570,101,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,571,101,caminar,planchar
+C,rf,ninguno,0,572,101,caminar,aspirar
+C,rf,ninguno,0,573,101,caminar,caminar
+C,rf,ninguno,0,574,101,caminar,caminar
+C,rf,ninguno,0,575,101,caminar,caminar
+C,rf,ninguno,0,576,101,caminar,caminar
+C,rf,ninguno,0,577,101,caminar,caminar
+C,rf,ninguno,0,578,101,caminar,caminar
+C,rf,ninguno,0,579,101,caminar,caminar
+C,rf,ninguno,0,580,101,caminar,caminar
+C,rf,ninguno,0,581,101,caminar,caminar
+C,rf,ninguno,0,582,101,caminar,caminar
+C,rf,ninguno,0,583,101,caminar,caminar
+C,rf,ninguno,0,584,101,caminar,caminar
+C,rf,ninguno,0,585,101,caminar,caminar
+C,rf,ninguno,0,586,101,caminar,caminar
+C,rf,ninguno,0,587,101,caminar,caminar
+C,rf,ninguno,0,588,101,caminar,caminar
+C,rf,ninguno,0,589,101,caminar,caminar
+C,rf,ninguno,0,590,101,caminar,caminar
+C,rf,ninguno,0,591,101,caminar,caminar
+C,rf,ninguno,0,592,101,caminar,caminar
+C,rf,ninguno,0,593,101,caminar,caminar
+C,rf,ninguno,0,594,101,caminar,caminar
+C,rf,ninguno,0,595,101,caminar,caminar
+C,rf,ninguno,0,596,101,caminar,caminar
+C,rf,ninguno,0,597,101,caminar,caminar
+C,rf,ninguno,0,598,101,caminar,caminar
+C,rf,ninguno,0,599,101,caminar,caminar
+C,rf,ninguno,0,600,101,caminar,caminar
+C,rf,ninguno,0,601,101,caminar,caminar
+C,rf,ninguno,0,602,101,caminar,caminar
+C,rf,ninguno,0,603,101,caminar,caminar
+C,rf,ninguno,0,604,101,caminar,caminar
+C,rf,ninguno,0,605,101,caminar,caminar
+C,rf,ninguno,0,606,101,caminar,caminar
+C,rf,ninguno,0,607,101,caminar,caminar
+C,rf,ninguno,0,608,101,caminar,caminar
+C,rf,ninguno,0,609,101,caminar,caminar
+C,rf,ninguno,0,610,101,caminar,caminar
+C,rf,ninguno,0,611,101,caminar,caminar
+C,rf,ninguno,0,612,101,caminar,caminar
+C,rf,ninguno,0,613,101,caminar,caminar
+C,rf,ninguno,0,614,101,caminar,caminar
+C,rf,ninguno,0,615,101,caminar,caminar
+C,rf,ninguno,0,616,101,caminar,caminar
+C,rf,ninguno,0,617,101,caminar,caminar
+C,rf,ninguno,0,618,101,caminar,caminar
+C,rf,ninguno,0,619,101,caminar,caminar
+C,rf,ninguno,0,620,101,caminar,caminar
+C,rf,ninguno,0,621,101,caminar,caminar
+C,rf,ninguno,0,622,101,caminar,caminar
+C,rf,ninguno,0,623,101,caminar,caminar
+C,rf,ninguno,0,624,101,caminar,caminar
+C,rf,ninguno,0,625,101,caminar,caminar
+C,rf,ninguno,0,626,101,caminar,caminar
+C,rf,ninguno,0,627,101,caminar,caminar
+C,rf,ninguno,0,628,101,caminar,caminar
+C,rf,ninguno,0,629,101,caminar,subir escaleras
+C,rf,ninguno,0,630,101,caminar,subir escaleras
+C,rf,ninguno,0,631,101,caminar,caminar
+C,rf,ninguno,0,632,101,caminar,caminar
+C,rf,ninguno,0,633,101,caminar,caminar
+C,rf,ninguno,0,634,101,caminar,caminar
+C,rf,ninguno,0,635,101,caminar,caminar
+C,rf,ninguno,0,636,101,caminar,caminar
+C,rf,ninguno,0,637,101,caminar,caminar
+C,rf,ninguno,0,638,101,caminar,caminar
+C,rf,ninguno,0,639,101,caminar,caminar
+C,rf,ninguno,0,640,101,caminar,caminar
+C,rf,ninguno,0,641,101,caminar,caminar
+C,rf,ninguno,0,642,101,caminar,caminar
+C,rf,ninguno,0,643,101,caminar,caminar
+C,rf,ninguno,0,644,101,caminar,caminar
+C,rf,ninguno,0,645,101,caminar,caminar
+C,rf,ninguno,0,646,101,caminar,caminar
+C,rf,ninguno,0,647,101,caminar,caminar
+C,rf,ninguno,0,648,101,caminar,caminar
+C,rf,ninguno,0,649,101,caminar,caminar
+C,rf,ninguno,0,650,101,caminar,caminar
+C,rf,ninguno,0,651,101,caminar,caminar
+C,rf,ninguno,0,652,101,caminar,caminar
+C,rf,ninguno,0,653,101,caminar,caminar
+C,rf,ninguno,0,654,101,caminar,aspirar
+C,rf,ninguno,0,655,101,caminar,planchar
+C,rf,ninguno,0,656,101,caminata nórdica,planchar
+C,rf,ninguno,0,657,101,caminata nórdica,planchar
+C,rf,ninguno,0,658,101,caminata nórdica,planchar
+C,rf,ninguno,0,659,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,660,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,661,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,662,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,663,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,664,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,665,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,666,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,667,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,668,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,669,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,670,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,671,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,672,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,673,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,674,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,675,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,676,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,677,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,678,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,679,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,680,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,681,101,caminata nórdica,subir escaleras
+C,rf,ninguno,0,682,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,683,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,684,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,685,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,686,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,687,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,688,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,689,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,690,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,691,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,692,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,693,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,694,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,695,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,696,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,697,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,698,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,699,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,700,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,701,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,702,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,703,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,704,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,705,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,706,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,707,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,708,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,709,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,710,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,711,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,712,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,713,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,714,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,715,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,716,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,717,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,718,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,719,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,720,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,721,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,722,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,723,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,724,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,725,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,726,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,727,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,728,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,729,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,730,101,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,731,101,caminata nórdica,planchar
+C,rf,ninguno,0,732,101,caminata nórdica,planchar
+C,rf,ninguno,0,733,101,caminata nórdica,planchar
+C,rf,ninguno,0,734,101,bicicleta,planchar
+C,rf,ninguno,0,735,101,bicicleta,planchar
+C,rf,ninguno,0,736,101,bicicleta,aspirar
+C,rf,ninguno,0,737,101,bicicleta,bicicleta
+C,rf,ninguno,0,738,101,bicicleta,bicicleta
+C,rf,ninguno,0,739,101,bicicleta,bicicleta
+C,rf,ninguno,0,740,101,bicicleta,bicicleta
+C,rf,ninguno,0,741,101,bicicleta,bicicleta
+C,rf,ninguno,0,742,101,bicicleta,bicicleta
+C,rf,ninguno,0,743,101,bicicleta,bicicleta
+C,rf,ninguno,0,744,101,bicicleta,bicicleta
+C,rf,ninguno,0,745,101,bicicleta,bicicleta
+C,rf,ninguno,0,746,101,bicicleta,bicicleta
+C,rf,ninguno,0,747,101,bicicleta,bicicleta
+C,rf,ninguno,0,748,101,bicicleta,bicicleta
+C,rf,ninguno,0,749,101,bicicleta,bicicleta
+C,rf,ninguno,0,750,101,bicicleta,bicicleta
+C,rf,ninguno,0,751,101,bicicleta,bicicleta
+C,rf,ninguno,0,752,101,bicicleta,bicicleta
+C,rf,ninguno,0,753,101,bicicleta,bicicleta
+C,rf,ninguno,0,754,101,bicicleta,bicicleta
+C,rf,ninguno,0,755,101,bicicleta,bicicleta
+C,rf,ninguno,0,756,101,bicicleta,bicicleta
+C,rf,ninguno,0,757,101,bicicleta,bicicleta
+C,rf,ninguno,0,758,101,bicicleta,bicicleta
+C,rf,ninguno,0,759,101,bicicleta,bicicleta
+C,rf,ninguno,0,760,101,bicicleta,bicicleta
+C,rf,ninguno,0,761,101,bicicleta,bicicleta
+C,rf,ninguno,0,762,101,bicicleta,bicicleta
+C,rf,ninguno,0,763,101,bicicleta,bicicleta
+C,rf,ninguno,0,764,101,bicicleta,bicicleta
+C,rf,ninguno,0,765,101,bicicleta,bicicleta
+C,rf,ninguno,0,766,101,bicicleta,bicicleta
+C,rf,ninguno,0,767,101,bicicleta,bicicleta
+C,rf,ninguno,0,768,101,bicicleta,bicicleta
+C,rf,ninguno,0,769,101,bicicleta,bicicleta
+C,rf,ninguno,0,770,101,bicicleta,bicicleta
+C,rf,ninguno,0,771,101,bicicleta,bicicleta
+C,rf,ninguno,0,772,101,bicicleta,bicicleta
+C,rf,ninguno,0,773,101,bicicleta,bicicleta
+C,rf,ninguno,0,774,101,bicicleta,bicicleta
+C,rf,ninguno,0,775,101,bicicleta,bicicleta
+C,rf,ninguno,0,776,101,bicicleta,bicicleta
+C,rf,ninguno,0,777,101,bicicleta,bicicleta
+C,rf,ninguno,0,778,101,bicicleta,bicicleta
+C,rf,ninguno,0,779,101,bicicleta,bicicleta
+C,rf,ninguno,0,780,101,bicicleta,bicicleta
+C,rf,ninguno,0,781,101,bicicleta,bicicleta
+C,rf,ninguno,0,782,101,bicicleta,bicicleta
+C,rf,ninguno,0,783,101,bicicleta,bicicleta
+C,rf,ninguno,0,784,101,bicicleta,bicicleta
+C,rf,ninguno,0,785,101,bicicleta,bicicleta
+C,rf,ninguno,0,786,101,bicicleta,bicicleta
+C,rf,ninguno,0,787,101,bicicleta,bicicleta
+C,rf,ninguno,0,788,101,bicicleta,bicicleta
+C,rf,ninguno,0,789,101,bicicleta,bicicleta
+C,rf,ninguno,0,790,101,bicicleta,bicicleta
+C,rf,ninguno,0,791,101,bicicleta,bicicleta
+C,rf,ninguno,0,792,101,bicicleta,bicicleta
+C,rf,ninguno,0,793,101,bicicleta,bicicleta
+C,rf,ninguno,0,794,101,bicicleta,bicicleta
+C,rf,ninguno,0,795,101,bicicleta,bicicleta
+C,rf,ninguno,0,796,101,bicicleta,bicicleta
+C,rf,ninguno,0,797,101,bicicleta,bicicleta
+C,rf,ninguno,0,798,101,bicicleta,bicicleta
+C,rf,ninguno,0,799,101,bicicleta,bicicleta
+C,rf,ninguno,0,800,101,bicicleta,bicicleta
+C,rf,ninguno,0,801,101,bicicleta,bicicleta
+C,rf,ninguno,0,802,101,bicicleta,bicicleta
+C,rf,ninguno,0,803,101,bicicleta,bicicleta
+C,rf,ninguno,0,804,101,bicicleta,bicicleta
+C,rf,ninguno,0,805,101,bicicleta,bicicleta
+C,rf,ninguno,0,806,101,bicicleta,bicicleta
+C,rf,ninguno,0,807,101,bicicleta,bicicleta
+C,rf,ninguno,0,808,101,bicicleta,bicicleta
+C,rf,ninguno,0,809,101,bicicleta,bicicleta
+C,rf,ninguno,0,810,101,bicicleta,bicicleta
+C,rf,ninguno,0,811,101,bicicleta,bicicleta
+C,rf,ninguno,0,812,101,bicicleta,bicicleta
+C,rf,ninguno,0,813,101,bicicleta,bicicleta
+C,rf,ninguno,0,814,101,bicicleta,bicicleta
+C,rf,ninguno,0,815,101,bicicleta,bicicleta
+C,rf,ninguno,0,816,101,bicicleta,bicicleta
+C,rf,ninguno,0,817,101,bicicleta,bicicleta
+C,rf,ninguno,0,818,101,bicicleta,bicicleta
+C,rf,ninguno,0,819,101,bicicleta,bicicleta
+C,rf,ninguno,0,820,101,bicicleta,bicicleta
+C,rf,ninguno,0,821,101,bicicleta,bicicleta
+C,rf,ninguno,0,822,101,bicicleta,bicicleta
+C,rf,ninguno,0,823,101,bicicleta,bicicleta
+C,rf,ninguno,0,824,101,bicicleta,planchar
+C,rf,ninguno,0,825,101,correr,planchar
+C,rf,ninguno,0,826,101,correr,planchar
+C,rf,ninguno,0,827,101,correr,aspirar
+C,rf,ninguno,0,828,101,correr,correr
+C,rf,ninguno,0,829,101,correr,correr
+C,rf,ninguno,0,830,101,correr,correr
+C,rf,ninguno,0,831,101,correr,correr
+C,rf,ninguno,0,832,101,correr,correr
+C,rf,ninguno,0,833,101,correr,correr
+C,rf,ninguno,0,834,101,correr,correr
+C,rf,ninguno,0,835,101,correr,correr
+C,rf,ninguno,0,836,101,correr,correr
+C,rf,ninguno,0,837,101,correr,correr
+C,rf,ninguno,0,838,101,correr,correr
+C,rf,ninguno,0,839,101,correr,correr
+C,rf,ninguno,0,840,101,correr,correr
+C,rf,ninguno,0,841,101,correr,correr
+C,rf,ninguno,0,842,101,correr,correr
+C,rf,ninguno,0,843,101,correr,correr
+C,rf,ninguno,0,844,101,correr,correr
+C,rf,ninguno,0,845,101,correr,correr
+C,rf,ninguno,0,846,101,correr,correr
+C,rf,ninguno,0,847,101,correr,correr
+C,rf,ninguno,0,848,101,correr,correr
+C,rf,ninguno,0,849,101,correr,correr
+C,rf,ninguno,0,850,101,correr,correr
+C,rf,ninguno,0,851,101,correr,correr
+C,rf,ninguno,0,852,101,correr,correr
+C,rf,ninguno,0,853,101,correr,correr
+C,rf,ninguno,0,854,101,correr,correr
+C,rf,ninguno,0,855,101,correr,correr
+C,rf,ninguno,0,856,101,correr,correr
+C,rf,ninguno,0,857,101,correr,correr
+C,rf,ninguno,0,858,101,correr,correr
+C,rf,ninguno,0,859,101,correr,correr
+C,rf,ninguno,0,860,101,correr,correr
+C,rf,ninguno,0,861,101,correr,correr
+C,rf,ninguno,0,862,101,correr,correr
+C,rf,ninguno,0,863,101,correr,correr
+C,rf,ninguno,0,864,101,correr,correr
+C,rf,ninguno,0,865,101,correr,correr
+C,rf,ninguno,0,866,101,correr,correr
+C,rf,ninguno,0,867,101,correr,correr
+C,rf,ninguno,0,868,101,correr,correr
+C,rf,ninguno,0,869,101,correr,correr
+C,rf,ninguno,0,870,101,correr,correr
+C,rf,ninguno,0,871,101,correr,correr
+C,rf,ninguno,0,872,101,correr,correr
+C,rf,ninguno,0,873,101,correr,correr
+C,rf,ninguno,0,874,101,correr,correr
+C,rf,ninguno,0,875,101,correr,correr
+C,rf,ninguno,0,876,101,correr,correr
+C,rf,ninguno,0,877,101,correr,correr
+C,rf,ninguno,0,878,101,correr,correr
+C,rf,ninguno,0,879,101,correr,correr
+C,rf,ninguno,0,880,101,correr,correr
+C,rf,ninguno,0,881,101,correr,correr
+C,rf,ninguno,0,882,101,correr,correr
+C,rf,ninguno,0,883,101,correr,correr
+C,rf,ninguno,0,884,101,correr,correr
+C,rf,ninguno,0,885,101,correr,correr
+C,rf,ninguno,0,886,101,correr,correr
+C,rf,ninguno,0,887,101,correr,correr
+C,rf,ninguno,0,888,101,correr,correr
+C,rf,ninguno,0,889,101,correr,correr
+C,rf,ninguno,0,890,101,correr,correr
+C,rf,ninguno,0,891,101,correr,correr
+C,rf,ninguno,0,892,101,correr,correr
+C,rf,ninguno,0,893,101,correr,correr
+C,rf,ninguno,0,894,101,correr,correr
+C,rf,ninguno,0,895,101,correr,correr
+C,rf,ninguno,0,896,101,correr,correr
+C,rf,ninguno,0,897,101,correr,correr
+C,rf,ninguno,0,898,101,correr,correr
+C,rf,ninguno,0,899,101,correr,correr
+C,rf,ninguno,0,900,101,correr,correr
+C,rf,ninguno,0,901,101,correr,correr
+C,rf,ninguno,0,902,101,correr,correr
+C,rf,ninguno,0,903,101,correr,correr
+C,rf,ninguno,0,904,101,correr,correr
+C,rf,ninguno,0,905,101,correr,correr
+C,rf,ninguno,0,906,101,correr,planchar
+C,rf,ninguno,0,907,101,saltar cuerda,planchar
+C,rf,ninguno,0,908,101,saltar cuerda,planchar
+C,rf,ninguno,0,909,101,saltar cuerda,aspirar
+C,rf,ninguno,0,910,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,911,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,912,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,913,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,914,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,915,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,916,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,917,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,918,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,919,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,920,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,921,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,922,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,923,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,924,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,925,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,926,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,927,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,928,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,929,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,930,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,931,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,932,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,933,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,934,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,935,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,936,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,937,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,938,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,939,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,940,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,941,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,942,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,943,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,944,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,945,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,946,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,947,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,948,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,949,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,950,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,951,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,952,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,953,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,954,101,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,955,101,saltar cuerda,bicicleta
+C,rf,ninguno,0,956,102,acostado,planchar
+C,rf,ninguno,0,957,102,acostado,planchar
+C,rf,ninguno,0,958,102,acostado,aspirar
+C,rf,ninguno,0,959,102,acostado,aspirar
+C,rf,ninguno,0,960,102,acostado,acostado
+C,rf,ninguno,0,961,102,acostado,acostado
+C,rf,ninguno,0,962,102,acostado,acostado
+C,rf,ninguno,0,963,102,acostado,acostado
+C,rf,ninguno,0,964,102,acostado,acostado
+C,rf,ninguno,0,965,102,acostado,acostado
+C,rf,ninguno,0,966,102,acostado,acostado
+C,rf,ninguno,0,967,102,acostado,acostado
+C,rf,ninguno,0,968,102,acostado,acostado
+C,rf,ninguno,0,969,102,acostado,acostado
+C,rf,ninguno,0,970,102,acostado,acostado
+C,rf,ninguno,0,971,102,acostado,acostado
+C,rf,ninguno,0,972,102,acostado,acostado
+C,rf,ninguno,0,973,102,acostado,acostado
+C,rf,ninguno,0,974,102,acostado,acostado
+C,rf,ninguno,0,975,102,acostado,acostado
+C,rf,ninguno,0,976,102,acostado,acostado
+C,rf,ninguno,0,977,102,acostado,acostado
+C,rf,ninguno,0,978,102,acostado,acostado
+C,rf,ninguno,0,979,102,acostado,acostado
+C,rf,ninguno,0,980,102,acostado,acostado
+C,rf,ninguno,0,981,102,acostado,acostado
+C,rf,ninguno,0,982,102,acostado,acostado
+C,rf,ninguno,0,983,102,acostado,acostado
+C,rf,ninguno,0,984,102,acostado,acostado
+C,rf,ninguno,0,985,102,acostado,acostado
+C,rf,ninguno,0,986,102,acostado,acostado
+C,rf,ninguno,0,987,102,acostado,acostado
+C,rf,ninguno,0,988,102,acostado,acostado
+C,rf,ninguno,0,989,102,acostado,acostado
+C,rf,ninguno,0,990,102,acostado,acostado
+C,rf,ninguno,0,991,102,acostado,acostado
+C,rf,ninguno,0,992,102,acostado,acostado
+C,rf,ninguno,0,993,102,acostado,acostado
+C,rf,ninguno,0,994,102,acostado,acostado
+C,rf,ninguno,0,995,102,acostado,acostado
+C,rf,ninguno,0,996,102,acostado,acostado
+C,rf,ninguno,0,997,102,acostado,acostado
+C,rf,ninguno,0,998,102,acostado,acostado
+C,rf,ninguno,0,999,102,acostado,acostado
+C,rf,ninguno,0,1000,102,acostado,acostado
+C,rf,ninguno,0,1001,102,acostado,acostado
+C,rf,ninguno,0,1002,102,acostado,acostado
+C,rf,ninguno,0,1003,102,acostado,acostado
+C,rf,ninguno,0,1004,102,acostado,acostado
+C,rf,ninguno,0,1005,102,acostado,acostado
+C,rf,ninguno,0,1006,102,acostado,acostado
+C,rf,ninguno,0,1007,102,acostado,acostado
+C,rf,ninguno,0,1008,102,acostado,acostado
+C,rf,ninguno,0,1009,102,acostado,acostado
+C,rf,ninguno,0,1010,102,acostado,acostado
+C,rf,ninguno,0,1011,102,acostado,acostado
+C,rf,ninguno,0,1012,102,acostado,acostado
+C,rf,ninguno,0,1013,102,acostado,acostado
+C,rf,ninguno,0,1014,102,acostado,acostado
+C,rf,ninguno,0,1015,102,acostado,acostado
+C,rf,ninguno,0,1016,102,acostado,acostado
+C,rf,ninguno,0,1017,102,acostado,acostado
+C,rf,ninguno,0,1018,102,acostado,acostado
+C,rf,ninguno,0,1019,102,acostado,acostado
+C,rf,ninguno,0,1020,102,acostado,acostado
+C,rf,ninguno,0,1021,102,acostado,acostado
+C,rf,ninguno,0,1022,102,acostado,acostado
+C,rf,ninguno,0,1023,102,acostado,acostado
+C,rf,ninguno,0,1024,102,acostado,acostado
+C,rf,ninguno,0,1025,102,acostado,acostado
+C,rf,ninguno,0,1026,102,acostado,acostado
+C,rf,ninguno,0,1027,102,acostado,acostado
+C,rf,ninguno,0,1028,102,acostado,acostado
+C,rf,ninguno,0,1029,102,acostado,acostado
+C,rf,ninguno,0,1030,102,acostado,acostado
+C,rf,ninguno,0,1031,102,acostado,acostado
+C,rf,ninguno,0,1032,102,acostado,acostado
+C,rf,ninguno,0,1033,102,acostado,acostado
+C,rf,ninguno,0,1034,102,acostado,acostado
+C,rf,ninguno,0,1035,102,acostado,acostado
+C,rf,ninguno,0,1036,102,acostado,acostado
+C,rf,ninguno,0,1037,102,acostado,acostado
+C,rf,ninguno,0,1038,102,acostado,acostado
+C,rf,ninguno,0,1039,102,acostado,acostado
+C,rf,ninguno,0,1040,102,acostado,acostado
+C,rf,ninguno,0,1041,102,acostado,acostado
+C,rf,ninguno,0,1042,102,acostado,acostado
+C,rf,ninguno,0,1043,102,acostado,acostado
+C,rf,ninguno,0,1044,102,acostado,acostado
+C,rf,ninguno,0,1045,102,acostado,aspirar
+C,rf,ninguno,0,1046,102,sentado,de pie
+C,rf,ninguno,0,1047,102,sentado,planchar
+C,rf,ninguno,0,1048,102,sentado,aspirar
+C,rf,ninguno,0,1049,102,sentado,aspirar
+C,rf,ninguno,0,1050,102,sentado,aspirar
+C,rf,ninguno,0,1051,102,sentado,aspirar
+C,rf,ninguno,0,1052,102,sentado,aspirar
+C,rf,ninguno,0,1053,102,sentado,sentado
+C,rf,ninguno,0,1054,102,sentado,sentado
+C,rf,ninguno,0,1055,102,sentado,sentado
+C,rf,ninguno,0,1056,102,sentado,sentado
+C,rf,ninguno,0,1057,102,sentado,sentado
+C,rf,ninguno,0,1058,102,sentado,sentado
+C,rf,ninguno,0,1059,102,sentado,sentado
+C,rf,ninguno,0,1060,102,sentado,sentado
+C,rf,ninguno,0,1061,102,sentado,sentado
+C,rf,ninguno,0,1062,102,sentado,sentado
+C,rf,ninguno,0,1063,102,sentado,sentado
+C,rf,ninguno,0,1064,102,sentado,sentado
+C,rf,ninguno,0,1065,102,sentado,sentado
+C,rf,ninguno,0,1066,102,sentado,planchar
+C,rf,ninguno,0,1067,102,sentado,planchar
+C,rf,ninguno,0,1068,102,sentado,planchar
+C,rf,ninguno,0,1069,102,sentado,sentado
+C,rf,ninguno,0,1070,102,sentado,sentado
+C,rf,ninguno,0,1071,102,sentado,sentado
+C,rf,ninguno,0,1072,102,sentado,sentado
+C,rf,ninguno,0,1073,102,sentado,sentado
+C,rf,ninguno,0,1074,102,sentado,sentado
+C,rf,ninguno,0,1075,102,sentado,sentado
+C,rf,ninguno,0,1076,102,sentado,sentado
+C,rf,ninguno,0,1077,102,sentado,sentado
+C,rf,ninguno,0,1078,102,sentado,sentado
+C,rf,ninguno,0,1079,102,sentado,sentado
+C,rf,ninguno,0,1080,102,sentado,sentado
+C,rf,ninguno,0,1081,102,sentado,sentado
+C,rf,ninguno,0,1082,102,sentado,sentado
+C,rf,ninguno,0,1083,102,sentado,sentado
+C,rf,ninguno,0,1084,102,sentado,sentado
+C,rf,ninguno,0,1085,102,sentado,sentado
+C,rf,ninguno,0,1086,102,sentado,sentado
+C,rf,ninguno,0,1087,102,sentado,sentado
+C,rf,ninguno,0,1088,102,sentado,sentado
+C,rf,ninguno,0,1089,102,sentado,sentado
+C,rf,ninguno,0,1090,102,sentado,sentado
+C,rf,ninguno,0,1091,102,sentado,sentado
+C,rf,ninguno,0,1092,102,sentado,sentado
+C,rf,ninguno,0,1093,102,sentado,sentado
+C,rf,ninguno,0,1094,102,sentado,sentado
+C,rf,ninguno,0,1095,102,sentado,sentado
+C,rf,ninguno,0,1096,102,sentado,sentado
+C,rf,ninguno,0,1097,102,sentado,sentado
+C,rf,ninguno,0,1098,102,sentado,sentado
+C,rf,ninguno,0,1099,102,sentado,sentado
+C,rf,ninguno,0,1100,102,sentado,sentado
+C,rf,ninguno,0,1101,102,sentado,sentado
+C,rf,ninguno,0,1102,102,sentado,sentado
+C,rf,ninguno,0,1103,102,sentado,sentado
+C,rf,ninguno,0,1104,102,sentado,sentado
+C,rf,ninguno,0,1105,102,sentado,sentado
+C,rf,ninguno,0,1106,102,sentado,sentado
+C,rf,ninguno,0,1107,102,sentado,sentado
+C,rf,ninguno,0,1108,102,sentado,planchar
+C,rf,ninguno,0,1109,102,sentado,planchar
+C,rf,ninguno,0,1110,102,sentado,sentado
+C,rf,ninguno,0,1111,102,sentado,planchar
+C,rf,ninguno,0,1112,102,sentado,planchar
+C,rf,ninguno,0,1113,102,sentado,planchar
+C,rf,ninguno,0,1114,102,sentado,sentado
+C,rf,ninguno,0,1115,102,sentado,planchar
+C,rf,ninguno,0,1116,102,sentado,planchar
+C,rf,ninguno,0,1117,102,sentado,planchar
+C,rf,ninguno,0,1118,102,sentado,planchar
+C,rf,ninguno,0,1119,102,sentado,planchar
+C,rf,ninguno,0,1120,102,sentado,planchar
+C,rf,ninguno,0,1121,102,sentado,planchar
+C,rf,ninguno,0,1122,102,sentado,planchar
+C,rf,ninguno,0,1123,102,sentado,planchar
+C,rf,ninguno,0,1124,102,sentado,planchar
+C,rf,ninguno,0,1125,102,sentado,planchar
+C,rf,ninguno,0,1126,102,sentado,planchar
+C,rf,ninguno,0,1127,102,sentado,planchar
+C,rf,ninguno,0,1128,102,sentado,planchar
+C,rf,ninguno,0,1129,102,sentado,aspirar
+C,rf,ninguno,0,1130,102,sentado,aspirar
+C,rf,ninguno,0,1131,102,sentado,aspirar
+C,rf,ninguno,0,1132,102,de pie,de pie
+C,rf,ninguno,0,1133,102,de pie,de pie
+C,rf,ninguno,0,1134,102,de pie,aspirar
+C,rf,ninguno,0,1135,102,de pie,planchar
+C,rf,ninguno,0,1136,102,de pie,aspirar
+C,rf,ninguno,0,1137,102,de pie,aspirar
+C,rf,ninguno,0,1138,102,de pie,planchar
+C,rf,ninguno,0,1139,102,de pie,planchar
+C,rf,ninguno,0,1140,102,de pie,de pie
+C,rf,ninguno,0,1141,102,de pie,planchar
+C,rf,ninguno,0,1142,102,de pie,planchar
+C,rf,ninguno,0,1143,102,de pie,planchar
+C,rf,ninguno,0,1144,102,de pie,de pie
+C,rf,ninguno,0,1145,102,de pie,de pie
+C,rf,ninguno,0,1146,102,de pie,de pie
+C,rf,ninguno,0,1147,102,de pie,de pie
+C,rf,ninguno,0,1148,102,de pie,de pie
+C,rf,ninguno,0,1149,102,de pie,de pie
+C,rf,ninguno,0,1150,102,de pie,de pie
+C,rf,ninguno,0,1151,102,de pie,de pie
+C,rf,ninguno,0,1152,102,de pie,de pie
+C,rf,ninguno,0,1153,102,de pie,de pie
+C,rf,ninguno,0,1154,102,de pie,de pie
+C,rf,ninguno,0,1155,102,de pie,de pie
+C,rf,ninguno,0,1156,102,de pie,de pie
+C,rf,ninguno,0,1157,102,de pie,de pie
+C,rf,ninguno,0,1158,102,de pie,de pie
+C,rf,ninguno,0,1159,102,de pie,de pie
+C,rf,ninguno,0,1160,102,de pie,de pie
+C,rf,ninguno,0,1161,102,de pie,de pie
+C,rf,ninguno,0,1162,102,de pie,de pie
+C,rf,ninguno,0,1163,102,de pie,de pie
+C,rf,ninguno,0,1164,102,de pie,de pie
+C,rf,ninguno,0,1165,102,de pie,de pie
+C,rf,ninguno,0,1166,102,de pie,de pie
+C,rf,ninguno,0,1167,102,de pie,de pie
+C,rf,ninguno,0,1168,102,de pie,de pie
+C,rf,ninguno,0,1169,102,de pie,de pie
+C,rf,ninguno,0,1170,102,de pie,de pie
+C,rf,ninguno,0,1171,102,de pie,de pie
+C,rf,ninguno,0,1172,102,de pie,de pie
+C,rf,ninguno,0,1173,102,de pie,de pie
+C,rf,ninguno,0,1174,102,de pie,de pie
+C,rf,ninguno,0,1175,102,de pie,de pie
+C,rf,ninguno,0,1176,102,de pie,de pie
+C,rf,ninguno,0,1177,102,de pie,de pie
+C,rf,ninguno,0,1178,102,de pie,de pie
+C,rf,ninguno,0,1179,102,de pie,de pie
+C,rf,ninguno,0,1180,102,de pie,de pie
+C,rf,ninguno,0,1181,102,de pie,de pie
+C,rf,ninguno,0,1182,102,de pie,de pie
+C,rf,ninguno,0,1183,102,de pie,de pie
+C,rf,ninguno,0,1184,102,de pie,de pie
+C,rf,ninguno,0,1185,102,de pie,de pie
+C,rf,ninguno,0,1186,102,de pie,de pie
+C,rf,ninguno,0,1187,102,de pie,de pie
+C,rf,ninguno,0,1188,102,de pie,de pie
+C,rf,ninguno,0,1189,102,de pie,de pie
+C,rf,ninguno,0,1190,102,de pie,de pie
+C,rf,ninguno,0,1191,102,de pie,de pie
+C,rf,ninguno,0,1192,102,de pie,de pie
+C,rf,ninguno,0,1193,102,de pie,de pie
+C,rf,ninguno,0,1194,102,de pie,de pie
+C,rf,ninguno,0,1195,102,de pie,de pie
+C,rf,ninguno,0,1196,102,de pie,de pie
+C,rf,ninguno,0,1197,102,de pie,de pie
+C,rf,ninguno,0,1198,102,de pie,de pie
+C,rf,ninguno,0,1199,102,de pie,de pie
+C,rf,ninguno,0,1200,102,de pie,de pie
+C,rf,ninguno,0,1201,102,de pie,de pie
+C,rf,ninguno,0,1202,102,de pie,de pie
+C,rf,ninguno,0,1203,102,de pie,de pie
+C,rf,ninguno,0,1204,102,de pie,de pie
+C,rf,ninguno,0,1205,102,de pie,de pie
+C,rf,ninguno,0,1206,102,de pie,de pie
+C,rf,ninguno,0,1207,102,de pie,de pie
+C,rf,ninguno,0,1208,102,de pie,de pie
+C,rf,ninguno,0,1209,102,de pie,de pie
+C,rf,ninguno,0,1210,102,de pie,de pie
+C,rf,ninguno,0,1211,102,de pie,de pie
+C,rf,ninguno,0,1212,102,de pie,de pie
+C,rf,ninguno,0,1213,102,de pie,de pie
+C,rf,ninguno,0,1214,102,de pie,de pie
+C,rf,ninguno,0,1215,102,de pie,de pie
+C,rf,ninguno,0,1216,102,de pie,de pie
+C,rf,ninguno,0,1217,102,de pie,de pie
+C,rf,ninguno,0,1218,102,de pie,de pie
+C,rf,ninguno,0,1219,102,de pie,de pie
+C,rf,ninguno,0,1220,102,de pie,de pie
+C,rf,ninguno,0,1221,102,de pie,de pie
+C,rf,ninguno,0,1222,102,de pie,de pie
+C,rf,ninguno,0,1223,102,de pie,de pie
+C,rf,ninguno,0,1224,102,de pie,de pie
+C,rf,ninguno,0,1225,102,de pie,de pie
+C,rf,ninguno,0,1226,102,de pie,de pie
+C,rf,ninguno,0,1227,102,de pie,de pie
+C,rf,ninguno,0,1228,102,de pie,de pie
+C,rf,ninguno,0,1229,102,de pie,de pie
+C,rf,ninguno,0,1230,102,planchar,de pie
+C,rf,ninguno,0,1231,102,planchar,aspirar
+C,rf,ninguno,0,1232,102,planchar,aspirar
+C,rf,ninguno,0,1233,102,planchar,planchar
+C,rf,ninguno,0,1234,102,planchar,planchar
+C,rf,ninguno,0,1235,102,planchar,planchar
+C,rf,ninguno,0,1236,102,planchar,planchar
+C,rf,ninguno,0,1237,102,planchar,planchar
+C,rf,ninguno,0,1238,102,planchar,planchar
+C,rf,ninguno,0,1239,102,planchar,planchar
+C,rf,ninguno,0,1240,102,planchar,planchar
+C,rf,ninguno,0,1241,102,planchar,planchar
+C,rf,ninguno,0,1242,102,planchar,planchar
+C,rf,ninguno,0,1243,102,planchar,planchar
+C,rf,ninguno,0,1244,102,planchar,planchar
+C,rf,ninguno,0,1245,102,planchar,planchar
+C,rf,ninguno,0,1246,102,planchar,planchar
+C,rf,ninguno,0,1247,102,planchar,planchar
+C,rf,ninguno,0,1248,102,planchar,planchar
+C,rf,ninguno,0,1249,102,planchar,planchar
+C,rf,ninguno,0,1250,102,planchar,planchar
+C,rf,ninguno,0,1251,102,planchar,planchar
+C,rf,ninguno,0,1252,102,planchar,planchar
+C,rf,ninguno,0,1253,102,planchar,planchar
+C,rf,ninguno,0,1254,102,planchar,planchar
+C,rf,ninguno,0,1255,102,planchar,planchar
+C,rf,ninguno,0,1256,102,planchar,planchar
+C,rf,ninguno,0,1257,102,planchar,planchar
+C,rf,ninguno,0,1258,102,planchar,planchar
+C,rf,ninguno,0,1259,102,planchar,planchar
+C,rf,ninguno,0,1260,102,planchar,planchar
+C,rf,ninguno,0,1261,102,planchar,planchar
+C,rf,ninguno,0,1262,102,planchar,planchar
+C,rf,ninguno,0,1263,102,planchar,planchar
+C,rf,ninguno,0,1264,102,planchar,planchar
+C,rf,ninguno,0,1265,102,planchar,planchar
+C,rf,ninguno,0,1266,102,planchar,planchar
+C,rf,ninguno,0,1267,102,planchar,planchar
+C,rf,ninguno,0,1268,102,planchar,planchar
+C,rf,ninguno,0,1269,102,planchar,planchar
+C,rf,ninguno,0,1270,102,planchar,planchar
+C,rf,ninguno,0,1271,102,planchar,planchar
+C,rf,ninguno,0,1272,102,planchar,planchar
+C,rf,ninguno,0,1273,102,planchar,planchar
+C,rf,ninguno,0,1274,102,planchar,planchar
+C,rf,ninguno,0,1275,102,planchar,planchar
+C,rf,ninguno,0,1276,102,planchar,planchar
+C,rf,ninguno,0,1277,102,planchar,planchar
+C,rf,ninguno,0,1278,102,planchar,planchar
+C,rf,ninguno,0,1279,102,planchar,planchar
+C,rf,ninguno,0,1280,102,planchar,planchar
+C,rf,ninguno,0,1281,102,planchar,planchar
+C,rf,ninguno,0,1282,102,planchar,planchar
+C,rf,ninguno,0,1283,102,planchar,planchar
+C,rf,ninguno,0,1284,102,planchar,planchar
+C,rf,ninguno,0,1285,102,planchar,planchar
+C,rf,ninguno,0,1286,102,planchar,planchar
+C,rf,ninguno,0,1287,102,planchar,planchar
+C,rf,ninguno,0,1288,102,planchar,planchar
+C,rf,ninguno,0,1289,102,planchar,planchar
+C,rf,ninguno,0,1290,102,planchar,planchar
+C,rf,ninguno,0,1291,102,planchar,planchar
+C,rf,ninguno,0,1292,102,planchar,planchar
+C,rf,ninguno,0,1293,102,planchar,aspirar
+C,rf,ninguno,0,1294,102,planchar,planchar
+C,rf,ninguno,0,1295,102,planchar,planchar
+C,rf,ninguno,0,1296,102,planchar,planchar
+C,rf,ninguno,0,1297,102,planchar,planchar
+C,rf,ninguno,0,1298,102,planchar,planchar
+C,rf,ninguno,0,1299,102,planchar,planchar
+C,rf,ninguno,0,1300,102,planchar,planchar
+C,rf,ninguno,0,1301,102,planchar,planchar
+C,rf,ninguno,0,1302,102,planchar,planchar
+C,rf,ninguno,0,1303,102,planchar,planchar
+C,rf,ninguno,0,1304,102,planchar,planchar
+C,rf,ninguno,0,1305,102,planchar,planchar
+C,rf,ninguno,0,1306,102,planchar,planchar
+C,rf,ninguno,0,1307,102,planchar,planchar
+C,rf,ninguno,0,1308,102,planchar,planchar
+C,rf,ninguno,0,1309,102,planchar,planchar
+C,rf,ninguno,0,1310,102,planchar,planchar
+C,rf,ninguno,0,1311,102,planchar,planchar
+C,rf,ninguno,0,1312,102,planchar,planchar
+C,rf,ninguno,0,1313,102,planchar,planchar
+C,rf,ninguno,0,1314,102,planchar,planchar
+C,rf,ninguno,0,1315,102,planchar,planchar
+C,rf,ninguno,0,1316,102,planchar,planchar
+C,rf,ninguno,0,1317,102,planchar,planchar
+C,rf,ninguno,0,1318,102,planchar,planchar
+C,rf,ninguno,0,1319,102,planchar,planchar
+C,rf,ninguno,0,1320,102,planchar,planchar
+C,rf,ninguno,0,1321,102,planchar,planchar
+C,rf,ninguno,0,1322,102,planchar,planchar
+C,rf,ninguno,0,1323,102,planchar,planchar
+C,rf,ninguno,0,1324,102,planchar,planchar
+C,rf,ninguno,0,1325,102,planchar,planchar
+C,rf,ninguno,0,1326,102,planchar,planchar
+C,rf,ninguno,0,1327,102,planchar,planchar
+C,rf,ninguno,0,1328,102,planchar,planchar
+C,rf,ninguno,0,1329,102,planchar,planchar
+C,rf,ninguno,0,1330,102,planchar,planchar
+C,rf,ninguno,0,1331,102,planchar,planchar
+C,rf,ninguno,0,1332,102,planchar,planchar
+C,rf,ninguno,0,1333,102,planchar,planchar
+C,rf,ninguno,0,1334,102,planchar,planchar
+C,rf,ninguno,0,1335,102,planchar,planchar
+C,rf,ninguno,0,1336,102,planchar,planchar
+C,rf,ninguno,0,1337,102,planchar,planchar
+C,rf,ninguno,0,1338,102,planchar,planchar
+C,rf,ninguno,0,1339,102,planchar,planchar
+C,rf,ninguno,0,1340,102,planchar,planchar
+C,rf,ninguno,0,1341,102,aspirar,de pie
+C,rf,ninguno,0,1342,102,aspirar,planchar
+C,rf,ninguno,0,1343,102,aspirar,aspirar
+C,rf,ninguno,0,1344,102,aspirar,aspirar
+C,rf,ninguno,0,1345,102,aspirar,aspirar
+C,rf,ninguno,0,1346,102,aspirar,aspirar
+C,rf,ninguno,0,1347,102,aspirar,aspirar
+C,rf,ninguno,0,1348,102,aspirar,aspirar
+C,rf,ninguno,0,1349,102,aspirar,aspirar
+C,rf,ninguno,0,1350,102,aspirar,aspirar
+C,rf,ninguno,0,1351,102,aspirar,aspirar
+C,rf,ninguno,0,1352,102,aspirar,aspirar
+C,rf,ninguno,0,1353,102,aspirar,aspirar
+C,rf,ninguno,0,1354,102,aspirar,aspirar
+C,rf,ninguno,0,1355,102,aspirar,aspirar
+C,rf,ninguno,0,1356,102,aspirar,aspirar
+C,rf,ninguno,0,1357,102,aspirar,aspirar
+C,rf,ninguno,0,1358,102,aspirar,aspirar
+C,rf,ninguno,0,1359,102,aspirar,aspirar
+C,rf,ninguno,0,1360,102,aspirar,aspirar
+C,rf,ninguno,0,1361,102,aspirar,aspirar
+C,rf,ninguno,0,1362,102,aspirar,aspirar
+C,rf,ninguno,0,1363,102,aspirar,aspirar
+C,rf,ninguno,0,1364,102,aspirar,aspirar
+C,rf,ninguno,0,1365,102,aspirar,aspirar
+C,rf,ninguno,0,1366,102,aspirar,aspirar
+C,rf,ninguno,0,1367,102,aspirar,aspirar
+C,rf,ninguno,0,1368,102,aspirar,aspirar
+C,rf,ninguno,0,1369,102,aspirar,aspirar
+C,rf,ninguno,0,1370,102,aspirar,aspirar
+C,rf,ninguno,0,1371,102,aspirar,aspirar
+C,rf,ninguno,0,1372,102,aspirar,aspirar
+C,rf,ninguno,0,1373,102,aspirar,aspirar
+C,rf,ninguno,0,1374,102,aspirar,aspirar
+C,rf,ninguno,0,1375,102,aspirar,aspirar
+C,rf,ninguno,0,1376,102,aspirar,aspirar
+C,rf,ninguno,0,1377,102,aspirar,aspirar
+C,rf,ninguno,0,1378,102,aspirar,aspirar
+C,rf,ninguno,0,1379,102,aspirar,aspirar
+C,rf,ninguno,0,1380,102,aspirar,aspirar
+C,rf,ninguno,0,1381,102,aspirar,aspirar
+C,rf,ninguno,0,1382,102,aspirar,aspirar
+C,rf,ninguno,0,1383,102,aspirar,aspirar
+C,rf,ninguno,0,1384,102,aspirar,aspirar
+C,rf,ninguno,0,1385,102,aspirar,aspirar
+C,rf,ninguno,0,1386,102,aspirar,aspirar
+C,rf,ninguno,0,1387,102,aspirar,aspirar
+C,rf,ninguno,0,1388,102,aspirar,aspirar
+C,rf,ninguno,0,1389,102,aspirar,aspirar
+C,rf,ninguno,0,1390,102,aspirar,aspirar
+C,rf,ninguno,0,1391,102,aspirar,aspirar
+C,rf,ninguno,0,1392,102,aspirar,aspirar
+C,rf,ninguno,0,1393,102,aspirar,aspirar
+C,rf,ninguno,0,1394,102,aspirar,aspirar
+C,rf,ninguno,0,1395,102,aspirar,aspirar
+C,rf,ninguno,0,1396,102,aspirar,aspirar
+C,rf,ninguno,0,1397,102,aspirar,aspirar
+C,rf,ninguno,0,1398,102,aspirar,aspirar
+C,rf,ninguno,0,1399,102,aspirar,aspirar
+C,rf,ninguno,0,1400,102,aspirar,aspirar
+C,rf,ninguno,0,1401,102,aspirar,aspirar
+C,rf,ninguno,0,1402,102,aspirar,aspirar
+C,rf,ninguno,0,1403,102,aspirar,aspirar
+C,rf,ninguno,0,1404,102,aspirar,aspirar
+C,rf,ninguno,0,1405,102,aspirar,aspirar
+C,rf,ninguno,0,1406,102,aspirar,aspirar
+C,rf,ninguno,0,1407,102,aspirar,aspirar
+C,rf,ninguno,0,1408,102,aspirar,aspirar
+C,rf,ninguno,0,1409,102,aspirar,aspirar
+C,rf,ninguno,0,1410,102,aspirar,aspirar
+C,rf,ninguno,0,1411,102,aspirar,aspirar
+C,rf,ninguno,0,1412,102,aspirar,aspirar
+C,rf,ninguno,0,1413,102,aspirar,aspirar
+C,rf,ninguno,0,1414,102,aspirar,aspirar
+C,rf,ninguno,0,1415,102,aspirar,aspirar
+C,rf,ninguno,0,1416,102,aspirar,aspirar
+C,rf,ninguno,0,1417,102,aspirar,aspirar
+C,rf,ninguno,0,1418,102,aspirar,aspirar
+C,rf,ninguno,0,1419,102,aspirar,aspirar
+C,rf,ninguno,0,1420,102,subir escaleras,de pie
+C,rf,ninguno,0,1421,102,subir escaleras,aspirar
+C,rf,ninguno,0,1422,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1423,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1424,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1425,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1426,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1427,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1428,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1429,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1430,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1431,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1432,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1433,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1434,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1435,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1436,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1437,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1438,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1439,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1440,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1441,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1442,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1443,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1444,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1445,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1446,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1447,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1448,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1449,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1450,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1451,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1452,102,subir escaleras,aspirar
+C,rf,ninguno,0,1453,102,bajar escaleras,de pie
+C,rf,ninguno,0,1454,102,bajar escaleras,subir escaleras
+C,rf,ninguno,0,1455,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1456,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1457,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1458,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1459,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1460,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1461,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1462,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1463,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1464,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1465,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1466,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1467,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1468,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1469,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1470,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1471,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1472,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1473,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1474,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1475,102,bajar escaleras,subir escaleras
+C,rf,ninguno,0,1476,102,bajar escaleras,subir escaleras
+C,rf,ninguno,0,1477,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1478,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1479,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1480,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1481,102,bajar escaleras,subir escaleras
+C,rf,ninguno,0,1482,102,subir escaleras,aspirar
+C,rf,ninguno,0,1483,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1484,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1485,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1486,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1487,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1488,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1489,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1490,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1491,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1492,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1493,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1494,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1495,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1496,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1497,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1498,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1499,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1500,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1501,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1502,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1503,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1504,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1505,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1506,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1507,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1508,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1509,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1510,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1511,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1512,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1513,102,subir escaleras,subir escaleras
+C,rf,ninguno,0,1514,102,bajar escaleras,aspirar
+C,rf,ninguno,0,1515,102,bajar escaleras,subir escaleras
+C,rf,ninguno,0,1516,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1517,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1518,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1519,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1520,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1521,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1522,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1523,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1524,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1525,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1526,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1527,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1528,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1529,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1530,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1531,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1532,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1533,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1534,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1535,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1536,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1537,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1538,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1539,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1540,102,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,1541,102,caminar,de pie
+C,rf,ninguno,0,1542,102,caminar,aspirar
+C,rf,ninguno,0,1543,102,caminar,caminar
+C,rf,ninguno,0,1544,102,caminar,caminar
+C,rf,ninguno,0,1545,102,caminar,caminar
+C,rf,ninguno,0,1546,102,caminar,caminar
+C,rf,ninguno,0,1547,102,caminar,caminar
+C,rf,ninguno,0,1548,102,caminar,caminar
+C,rf,ninguno,0,1549,102,caminar,caminar
+C,rf,ninguno,0,1550,102,caminar,caminar
+C,rf,ninguno,0,1551,102,caminar,caminar
+C,rf,ninguno,0,1552,102,caminar,caminar
+C,rf,ninguno,0,1553,102,caminar,caminar
+C,rf,ninguno,0,1554,102,caminar,caminar
+C,rf,ninguno,0,1555,102,caminar,caminar
+C,rf,ninguno,0,1556,102,caminar,caminar
+C,rf,ninguno,0,1557,102,caminar,caminar
+C,rf,ninguno,0,1558,102,caminar,caminar
+C,rf,ninguno,0,1559,102,caminar,caminar
+C,rf,ninguno,0,1560,102,caminar,caminar
+C,rf,ninguno,0,1561,102,caminar,caminar
+C,rf,ninguno,0,1562,102,caminar,caminar
+C,rf,ninguno,0,1563,102,caminar,caminar
+C,rf,ninguno,0,1564,102,caminar,caminar
+C,rf,ninguno,0,1565,102,caminar,caminar
+C,rf,ninguno,0,1566,102,caminar,caminar
+C,rf,ninguno,0,1567,102,caminar,caminar
+C,rf,ninguno,0,1568,102,caminar,caminar
+C,rf,ninguno,0,1569,102,caminar,caminar
+C,rf,ninguno,0,1570,102,caminar,caminar
+C,rf,ninguno,0,1571,102,caminar,caminar
+C,rf,ninguno,0,1572,102,caminar,caminar
+C,rf,ninguno,0,1573,102,caminar,caminar
+C,rf,ninguno,0,1574,102,caminar,caminar
+C,rf,ninguno,0,1575,102,caminar,caminar
+C,rf,ninguno,0,1576,102,caminar,caminar
+C,rf,ninguno,0,1577,102,caminar,caminar
+C,rf,ninguno,0,1578,102,caminar,caminar
+C,rf,ninguno,0,1579,102,caminar,caminar
+C,rf,ninguno,0,1580,102,caminar,caminar
+C,rf,ninguno,0,1581,102,caminar,caminar
+C,rf,ninguno,0,1582,102,caminar,caminar
+C,rf,ninguno,0,1583,102,caminar,caminar
+C,rf,ninguno,0,1584,102,caminar,caminar
+C,rf,ninguno,0,1585,102,caminar,caminar
+C,rf,ninguno,0,1586,102,caminar,caminar
+C,rf,ninguno,0,1587,102,caminar,caminar
+C,rf,ninguno,0,1588,102,caminar,caminar
+C,rf,ninguno,0,1589,102,caminar,caminar
+C,rf,ninguno,0,1590,102,caminar,caminar
+C,rf,ninguno,0,1591,102,caminar,caminar
+C,rf,ninguno,0,1592,102,caminar,caminar
+C,rf,ninguno,0,1593,102,caminar,caminar
+C,rf,ninguno,0,1594,102,caminar,caminar
+C,rf,ninguno,0,1595,102,caminar,caminar
+C,rf,ninguno,0,1596,102,caminar,caminar
+C,rf,ninguno,0,1597,102,caminar,caminar
+C,rf,ninguno,0,1598,102,caminar,caminar
+C,rf,ninguno,0,1599,102,caminar,caminar
+C,rf,ninguno,0,1600,102,caminar,caminar
+C,rf,ninguno,0,1601,102,caminar,caminar
+C,rf,ninguno,0,1602,102,caminar,caminar
+C,rf,ninguno,0,1603,102,caminar,caminar
+C,rf,ninguno,0,1604,102,caminar,caminar
+C,rf,ninguno,0,1605,102,caminar,caminar
+C,rf,ninguno,0,1606,102,caminar,caminar
+C,rf,ninguno,0,1607,102,caminar,caminar
+C,rf,ninguno,0,1608,102,caminar,caminar
+C,rf,ninguno,0,1609,102,caminar,caminar
+C,rf,ninguno,0,1610,102,caminar,caminar
+C,rf,ninguno,0,1611,102,caminar,caminar
+C,rf,ninguno,0,1612,102,caminar,caminar
+C,rf,ninguno,0,1613,102,caminar,caminar
+C,rf,ninguno,0,1614,102,caminar,caminar
+C,rf,ninguno,0,1615,102,caminar,caminar
+C,rf,ninguno,0,1616,102,caminar,caminar
+C,rf,ninguno,0,1617,102,caminar,caminar
+C,rf,ninguno,0,1618,102,caminar,caminar
+C,rf,ninguno,0,1619,102,caminar,caminar
+C,rf,ninguno,0,1620,102,caminar,caminar
+C,rf,ninguno,0,1621,102,caminar,caminar
+C,rf,ninguno,0,1622,102,caminar,caminar
+C,rf,ninguno,0,1623,102,caminar,caminar
+C,rf,ninguno,0,1624,102,caminar,caminar
+C,rf,ninguno,0,1625,102,caminar,caminar
+C,rf,ninguno,0,1626,102,caminar,caminar
+C,rf,ninguno,0,1627,102,caminar,caminar
+C,rf,ninguno,0,1628,102,caminar,caminar
+C,rf,ninguno,0,1629,102,caminar,caminar
+C,rf,ninguno,0,1630,102,caminar,caminar
+C,rf,ninguno,0,1631,102,caminar,caminar
+C,rf,ninguno,0,1632,102,caminar,caminar
+C,rf,ninguno,0,1633,102,caminar,caminar
+C,rf,ninguno,0,1634,102,caminar,caminar
+C,rf,ninguno,0,1635,102,caminar,caminar
+C,rf,ninguno,0,1636,102,caminar,caminar
+C,rf,ninguno,0,1637,102,caminar,caminar
+C,rf,ninguno,0,1638,102,caminar,caminar
+C,rf,ninguno,0,1639,102,caminar,caminar
+C,rf,ninguno,0,1640,102,caminar,caminar
+C,rf,ninguno,0,1641,102,caminar,caminar
+C,rf,ninguno,0,1642,102,caminar,caminar
+C,rf,ninguno,0,1643,102,caminar,caminar
+C,rf,ninguno,0,1644,102,caminar,caminar
+C,rf,ninguno,0,1645,102,caminar,caminar
+C,rf,ninguno,0,1646,102,caminar,caminar
+C,rf,ninguno,0,1647,102,caminar,caminar
+C,rf,ninguno,0,1648,102,caminar,caminar
+C,rf,ninguno,0,1649,102,caminar,caminar
+C,rf,ninguno,0,1650,102,caminar,caminar
+C,rf,ninguno,0,1651,102,caminar,caminar
+C,rf,ninguno,0,1652,102,caminar,caminar
+C,rf,ninguno,0,1653,102,caminar,caminar
+C,rf,ninguno,0,1654,102,caminar,caminar
+C,rf,ninguno,0,1655,102,caminar,caminar
+C,rf,ninguno,0,1656,102,caminar,caminar
+C,rf,ninguno,0,1657,102,caminar,caminar
+C,rf,ninguno,0,1658,102,caminar,caminar
+C,rf,ninguno,0,1659,102,caminar,caminar
+C,rf,ninguno,0,1660,102,caminar,caminar
+C,rf,ninguno,0,1661,102,caminar,caminar
+C,rf,ninguno,0,1662,102,caminar,caminar
+C,rf,ninguno,0,1663,102,caminar,caminar
+C,rf,ninguno,0,1664,102,caminar,caminar
+C,rf,ninguno,0,1665,102,caminar,caminar
+C,rf,ninguno,0,1666,102,caminar,aspirar
+C,rf,ninguno,0,1667,102,caminata nórdica,planchar
+C,rf,ninguno,0,1668,102,caminata nórdica,planchar
+C,rf,ninguno,0,1669,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1670,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1671,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1672,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1673,102,caminata nórdica,caminar
+C,rf,ninguno,0,1674,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1675,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1676,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1677,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1678,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1679,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1680,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1681,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1682,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1683,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1684,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1685,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1686,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1687,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1688,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1689,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1690,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1691,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1692,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1693,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1694,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1695,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1696,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1697,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1698,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1699,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1700,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1701,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1702,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1703,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1704,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1705,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1706,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1707,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1708,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1709,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1710,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1711,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1712,102,caminata nórdica,caminar
+C,rf,ninguno,0,1713,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1714,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1715,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1716,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1717,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1718,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1719,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1720,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1721,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1722,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1723,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1724,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1725,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1726,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1727,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1728,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1729,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1730,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1731,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1732,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1733,102,caminata nórdica,caminar
+C,rf,ninguno,0,1734,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1735,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1736,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1737,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1738,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1739,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1740,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1741,102,caminata nórdica,caminar
+C,rf,ninguno,0,1742,102,caminata nórdica,caminar
+C,rf,ninguno,0,1743,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1744,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1745,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1746,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1747,102,caminata nórdica,caminar
+C,rf,ninguno,0,1748,102,caminata nórdica,caminar
+C,rf,ninguno,0,1749,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1750,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1751,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1752,102,caminata nórdica,caminar
+C,rf,ninguno,0,1753,102,caminata nórdica,caminar
+C,rf,ninguno,0,1754,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1755,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1756,102,caminata nórdica,caminar
+C,rf,ninguno,0,1757,102,caminata nórdica,caminar
+C,rf,ninguno,0,1758,102,caminata nórdica,caminar
+C,rf,ninguno,0,1759,102,caminata nórdica,caminar
+C,rf,ninguno,0,1760,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1761,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1762,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1763,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1764,102,caminata nórdica,caminar
+C,rf,ninguno,0,1765,102,caminata nórdica,caminar
+C,rf,ninguno,0,1766,102,caminata nórdica,caminar
+C,rf,ninguno,0,1767,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1768,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1769,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1770,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1771,102,caminata nórdica,caminar
+C,rf,ninguno,0,1772,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1773,102,caminata nórdica,caminar
+C,rf,ninguno,0,1774,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1775,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1776,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1777,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1778,102,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,1779,102,caminata nórdica,caminar
+C,rf,ninguno,0,1780,102,caminata nórdica,aspirar
+C,rf,ninguno,0,1781,102,caminata nórdica,planchar
+C,rf,ninguno,0,1782,102,bicicleta,planchar
+C,rf,ninguno,0,1783,102,bicicleta,bicicleta
+C,rf,ninguno,0,1784,102,bicicleta,bicicleta
+C,rf,ninguno,0,1785,102,bicicleta,bicicleta
+C,rf,ninguno,0,1786,102,bicicleta,bicicleta
+C,rf,ninguno,0,1787,102,bicicleta,bicicleta
+C,rf,ninguno,0,1788,102,bicicleta,bicicleta
+C,rf,ninguno,0,1789,102,bicicleta,bicicleta
+C,rf,ninguno,0,1790,102,bicicleta,bicicleta
+C,rf,ninguno,0,1791,102,bicicleta,bicicleta
+C,rf,ninguno,0,1792,102,bicicleta,bicicleta
+C,rf,ninguno,0,1793,102,bicicleta,bicicleta
+C,rf,ninguno,0,1794,102,bicicleta,bicicleta
+C,rf,ninguno,0,1795,102,bicicleta,bicicleta
+C,rf,ninguno,0,1796,102,bicicleta,bicicleta
+C,rf,ninguno,0,1797,102,bicicleta,bicicleta
+C,rf,ninguno,0,1798,102,bicicleta,bicicleta
+C,rf,ninguno,0,1799,102,bicicleta,bicicleta
+C,rf,ninguno,0,1800,102,bicicleta,bicicleta
+C,rf,ninguno,0,1801,102,bicicleta,bicicleta
+C,rf,ninguno,0,1802,102,bicicleta,bicicleta
+C,rf,ninguno,0,1803,102,bicicleta,bicicleta
+C,rf,ninguno,0,1804,102,bicicleta,bicicleta
+C,rf,ninguno,0,1805,102,bicicleta,bicicleta
+C,rf,ninguno,0,1806,102,bicicleta,bicicleta
+C,rf,ninguno,0,1807,102,bicicleta,bicicleta
+C,rf,ninguno,0,1808,102,bicicleta,bicicleta
+C,rf,ninguno,0,1809,102,bicicleta,bicicleta
+C,rf,ninguno,0,1810,102,bicicleta,bicicleta
+C,rf,ninguno,0,1811,102,bicicleta,bicicleta
+C,rf,ninguno,0,1812,102,bicicleta,bicicleta
+C,rf,ninguno,0,1813,102,bicicleta,bicicleta
+C,rf,ninguno,0,1814,102,bicicleta,bicicleta
+C,rf,ninguno,0,1815,102,bicicleta,bicicleta
+C,rf,ninguno,0,1816,102,bicicleta,bicicleta
+C,rf,ninguno,0,1817,102,bicicleta,bicicleta
+C,rf,ninguno,0,1818,102,bicicleta,bicicleta
+C,rf,ninguno,0,1819,102,bicicleta,bicicleta
+C,rf,ninguno,0,1820,102,bicicleta,bicicleta
+C,rf,ninguno,0,1821,102,bicicleta,bicicleta
+C,rf,ninguno,0,1822,102,bicicleta,bicicleta
+C,rf,ninguno,0,1823,102,bicicleta,bicicleta
+C,rf,ninguno,0,1824,102,bicicleta,bicicleta
+C,rf,ninguno,0,1825,102,bicicleta,bicicleta
+C,rf,ninguno,0,1826,102,bicicleta,bicicleta
+C,rf,ninguno,0,1827,102,bicicleta,bicicleta
+C,rf,ninguno,0,1828,102,bicicleta,bicicleta
+C,rf,ninguno,0,1829,102,bicicleta,bicicleta
+C,rf,ninguno,0,1830,102,bicicleta,bicicleta
+C,rf,ninguno,0,1831,102,bicicleta,bicicleta
+C,rf,ninguno,0,1832,102,bicicleta,bicicleta
+C,rf,ninguno,0,1833,102,bicicleta,bicicleta
+C,rf,ninguno,0,1834,102,bicicleta,bicicleta
+C,rf,ninguno,0,1835,102,bicicleta,bicicleta
+C,rf,ninguno,0,1836,102,bicicleta,bicicleta
+C,rf,ninguno,0,1837,102,bicicleta,bicicleta
+C,rf,ninguno,0,1838,102,bicicleta,bicicleta
+C,rf,ninguno,0,1839,102,bicicleta,bicicleta
+C,rf,ninguno,0,1840,102,bicicleta,bicicleta
+C,rf,ninguno,0,1841,102,bicicleta,bicicleta
+C,rf,ninguno,0,1842,102,bicicleta,bicicleta
+C,rf,ninguno,0,1843,102,bicicleta,bicicleta
+C,rf,ninguno,0,1844,102,bicicleta,bicicleta
+C,rf,ninguno,0,1845,102,bicicleta,bicicleta
+C,rf,ninguno,0,1846,102,bicicleta,bicicleta
+C,rf,ninguno,0,1847,102,bicicleta,bicicleta
+C,rf,ninguno,0,1848,102,bicicleta,bicicleta
+C,rf,ninguno,0,1849,102,bicicleta,bicicleta
+C,rf,ninguno,0,1850,102,bicicleta,bicicleta
+C,rf,ninguno,0,1851,102,bicicleta,bicicleta
+C,rf,ninguno,0,1852,102,bicicleta,bicicleta
+C,rf,ninguno,0,1853,102,bicicleta,bicicleta
+C,rf,ninguno,0,1854,102,bicicleta,bicicleta
+C,rf,ninguno,0,1855,102,bicicleta,bicicleta
+C,rf,ninguno,0,1856,102,bicicleta,bicicleta
+C,rf,ninguno,0,1857,102,bicicleta,bicicleta
+C,rf,ninguno,0,1858,102,bicicleta,bicicleta
+C,rf,ninguno,0,1859,102,bicicleta,bicicleta
+C,rf,ninguno,0,1860,102,bicicleta,bicicleta
+C,rf,ninguno,0,1861,102,bicicleta,bicicleta
+C,rf,ninguno,0,1862,102,bicicleta,bicicleta
+C,rf,ninguno,0,1863,102,bicicleta,bicicleta
+C,rf,ninguno,0,1864,102,bicicleta,bicicleta
+C,rf,ninguno,0,1865,102,bicicleta,bicicleta
+C,rf,ninguno,0,1866,102,bicicleta,bicicleta
+C,rf,ninguno,0,1867,102,bicicleta,bicicleta
+C,rf,ninguno,0,1868,102,bicicleta,bicicleta
+C,rf,ninguno,0,1869,102,bicicleta,bicicleta
+C,rf,ninguno,0,1870,102,bicicleta,bicicleta
+C,rf,ninguno,0,1871,102,bicicleta,bicicleta
+C,rf,ninguno,0,1872,102,bicicleta,bicicleta
+C,rf,ninguno,0,1873,102,bicicleta,bicicleta
+C,rf,ninguno,0,1874,102,bicicleta,bicicleta
+C,rf,ninguno,0,1875,102,bicicleta,bicicleta
+C,rf,ninguno,0,1876,102,bicicleta,bicicleta
+C,rf,ninguno,0,1877,102,bicicleta,bicicleta
+C,rf,ninguno,0,1878,102,bicicleta,bicicleta
+C,rf,ninguno,0,1879,102,correr,planchar
+C,rf,ninguno,0,1880,102,correr,bajar escaleras
+C,rf,ninguno,0,1881,102,correr,correr
+C,rf,ninguno,0,1882,102,correr,correr
+C,rf,ninguno,0,1883,102,correr,correr
+C,rf,ninguno,0,1884,102,correr,correr
+C,rf,ninguno,0,1885,102,correr,correr
+C,rf,ninguno,0,1886,102,correr,correr
+C,rf,ninguno,0,1887,102,correr,correr
+C,rf,ninguno,0,1888,102,correr,correr
+C,rf,ninguno,0,1889,102,correr,correr
+C,rf,ninguno,0,1890,102,correr,correr
+C,rf,ninguno,0,1891,102,correr,correr
+C,rf,ninguno,0,1892,102,correr,correr
+C,rf,ninguno,0,1893,102,correr,correr
+C,rf,ninguno,0,1894,102,correr,correr
+C,rf,ninguno,0,1895,102,correr,correr
+C,rf,ninguno,0,1896,102,correr,correr
+C,rf,ninguno,0,1897,102,correr,correr
+C,rf,ninguno,0,1898,102,correr,correr
+C,rf,ninguno,0,1899,102,correr,correr
+C,rf,ninguno,0,1900,102,correr,correr
+C,rf,ninguno,0,1901,102,correr,correr
+C,rf,ninguno,0,1902,102,correr,correr
+C,rf,ninguno,0,1903,102,correr,correr
+C,rf,ninguno,0,1904,102,correr,correr
+C,rf,ninguno,0,1905,102,correr,correr
+C,rf,ninguno,0,1906,102,correr,correr
+C,rf,ninguno,0,1907,102,correr,correr
+C,rf,ninguno,0,1908,102,correr,correr
+C,rf,ninguno,0,1909,102,correr,correr
+C,rf,ninguno,0,1910,102,correr,correr
+C,rf,ninguno,0,1911,102,correr,correr
+C,rf,ninguno,0,1912,102,correr,correr
+C,rf,ninguno,0,1913,102,correr,correr
+C,rf,ninguno,0,1914,102,saltar cuerda,sentado
+C,rf,ninguno,0,1915,102,saltar cuerda,aspirar
+C,rf,ninguno,0,1916,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1917,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1918,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1919,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1920,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1921,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1922,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1923,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1924,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1925,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1926,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1927,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1928,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1929,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1930,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1931,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1932,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1933,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1934,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1935,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1936,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1937,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1938,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1939,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1940,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1941,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1942,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1943,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1944,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1945,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1946,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1947,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1948,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1949,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1950,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1951,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1952,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1953,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1954,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1955,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1956,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1957,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1958,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1959,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1960,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1961,102,saltar cuerda,saltar cuerda
+C,rf,ninguno,0,1962,102,saltar cuerda,aspirar
+C,rf,ninguno,0,1963,102,saltar cuerda,planchar
+C,rf,ninguno,0,5520,107,acostado,de pie
+C,rf,ninguno,0,5521,107,acostado,acostado
+C,rf,ninguno,0,5522,107,acostado,acostado
+C,rf,ninguno,0,5523,107,acostado,acostado
+C,rf,ninguno,0,5524,107,acostado,acostado
+C,rf,ninguno,0,5525,107,acostado,acostado
+C,rf,ninguno,0,5526,107,acostado,acostado
+C,rf,ninguno,0,5527,107,acostado,acostado
+C,rf,ninguno,0,5528,107,acostado,acostado
+C,rf,ninguno,0,5529,107,acostado,acostado
+C,rf,ninguno,0,5530,107,acostado,acostado
+C,rf,ninguno,0,5531,107,acostado,acostado
+C,rf,ninguno,0,5532,107,acostado,acostado
+C,rf,ninguno,0,5533,107,acostado,acostado
+C,rf,ninguno,0,5534,107,acostado,acostado
+C,rf,ninguno,0,5535,107,acostado,acostado
+C,rf,ninguno,0,5536,107,acostado,acostado
+C,rf,ninguno,0,5537,107,acostado,acostado
+C,rf,ninguno,0,5538,107,acostado,acostado
+C,rf,ninguno,0,5539,107,acostado,acostado
+C,rf,ninguno,0,5540,107,acostado,acostado
+C,rf,ninguno,0,5541,107,acostado,acostado
+C,rf,ninguno,0,5542,107,acostado,acostado
+C,rf,ninguno,0,5543,107,acostado,acostado
+C,rf,ninguno,0,5544,107,acostado,acostado
+C,rf,ninguno,0,5545,107,acostado,acostado
+C,rf,ninguno,0,5546,107,acostado,acostado
+C,rf,ninguno,0,5547,107,acostado,acostado
+C,rf,ninguno,0,5548,107,acostado,acostado
+C,rf,ninguno,0,5549,107,acostado,acostado
+C,rf,ninguno,0,5550,107,acostado,acostado
+C,rf,ninguno,0,5551,107,acostado,acostado
+C,rf,ninguno,0,5552,107,acostado,acostado
+C,rf,ninguno,0,5553,107,acostado,acostado
+C,rf,ninguno,0,5554,107,acostado,acostado
+C,rf,ninguno,0,5555,107,acostado,acostado
+C,rf,ninguno,0,5556,107,acostado,acostado
+C,rf,ninguno,0,5557,107,acostado,acostado
+C,rf,ninguno,0,5558,107,acostado,acostado
+C,rf,ninguno,0,5559,107,acostado,acostado
+C,rf,ninguno,0,5560,107,acostado,acostado
+C,rf,ninguno,0,5561,107,acostado,acostado
+C,rf,ninguno,0,5562,107,acostado,acostado
+C,rf,ninguno,0,5563,107,acostado,acostado
+C,rf,ninguno,0,5564,107,acostado,acostado
+C,rf,ninguno,0,5565,107,acostado,acostado
+C,rf,ninguno,0,5566,107,acostado,acostado
+C,rf,ninguno,0,5567,107,acostado,acostado
+C,rf,ninguno,0,5568,107,acostado,acostado
+C,rf,ninguno,0,5569,107,acostado,acostado
+C,rf,ninguno,0,5570,107,acostado,acostado
+C,rf,ninguno,0,5571,107,acostado,acostado
+C,rf,ninguno,0,5572,107,acostado,acostado
+C,rf,ninguno,0,5573,107,acostado,acostado
+C,rf,ninguno,0,5574,107,acostado,acostado
+C,rf,ninguno,0,5575,107,acostado,acostado
+C,rf,ninguno,0,5576,107,acostado,acostado
+C,rf,ninguno,0,5577,107,acostado,acostado
+C,rf,ninguno,0,5578,107,acostado,acostado
+C,rf,ninguno,0,5579,107,acostado,acostado
+C,rf,ninguno,0,5580,107,acostado,acostado
+C,rf,ninguno,0,5581,107,acostado,acostado
+C,rf,ninguno,0,5582,107,acostado,acostado
+C,rf,ninguno,0,5583,107,acostado,acostado
+C,rf,ninguno,0,5584,107,acostado,acostado
+C,rf,ninguno,0,5585,107,acostado,acostado
+C,rf,ninguno,0,5586,107,acostado,acostado
+C,rf,ninguno,0,5587,107,acostado,acostado
+C,rf,ninguno,0,5588,107,acostado,acostado
+C,rf,ninguno,0,5589,107,acostado,acostado
+C,rf,ninguno,0,5590,107,acostado,acostado
+C,rf,ninguno,0,5591,107,acostado,acostado
+C,rf,ninguno,0,5592,107,acostado,acostado
+C,rf,ninguno,0,5593,107,acostado,acostado
+C,rf,ninguno,0,5594,107,acostado,acostado
+C,rf,ninguno,0,5595,107,acostado,acostado
+C,rf,ninguno,0,5596,107,acostado,acostado
+C,rf,ninguno,0,5597,107,acostado,acostado
+C,rf,ninguno,0,5598,107,acostado,acostado
+C,rf,ninguno,0,5599,107,acostado,acostado
+C,rf,ninguno,0,5600,107,acostado,acostado
+C,rf,ninguno,0,5601,107,acostado,acostado
+C,rf,ninguno,0,5602,107,acostado,acostado
+C,rf,ninguno,0,5603,107,acostado,acostado
+C,rf,ninguno,0,5604,107,acostado,acostado
+C,rf,ninguno,0,5605,107,acostado,acostado
+C,rf,ninguno,0,5606,107,acostado,acostado
+C,rf,ninguno,0,5607,107,acostado,acostado
+C,rf,ninguno,0,5608,107,acostado,acostado
+C,rf,ninguno,0,5609,107,acostado,acostado
+C,rf,ninguno,0,5610,107,acostado,acostado
+C,rf,ninguno,0,5611,107,acostado,acostado
+C,rf,ninguno,0,5612,107,acostado,acostado
+C,rf,ninguno,0,5613,107,acostado,acostado
+C,rf,ninguno,0,5614,107,acostado,acostado
+C,rf,ninguno,0,5615,107,acostado,acostado
+C,rf,ninguno,0,5616,107,acostado,acostado
+C,rf,ninguno,0,5617,107,acostado,acostado
+C,rf,ninguno,0,5618,107,acostado,de pie
+C,rf,ninguno,0,5619,107,sentado,de pie
+C,rf,ninguno,0,5620,107,sentado,de pie
+C,rf,ninguno,0,5621,107,sentado,aspirar
+C,rf,ninguno,0,5622,107,sentado,bicicleta
+C,rf,ninguno,0,5623,107,sentado,planchar
+C,rf,ninguno,0,5624,107,sentado,sentado
+C,rf,ninguno,0,5625,107,sentado,sentado
+C,rf,ninguno,0,5626,107,sentado,sentado
+C,rf,ninguno,0,5627,107,sentado,sentado
+C,rf,ninguno,0,5628,107,sentado,sentado
+C,rf,ninguno,0,5629,107,sentado,sentado
+C,rf,ninguno,0,5630,107,sentado,sentado
+C,rf,ninguno,0,5631,107,sentado,sentado
+C,rf,ninguno,0,5632,107,sentado,sentado
+C,rf,ninguno,0,5633,107,sentado,sentado
+C,rf,ninguno,0,5634,107,sentado,sentado
+C,rf,ninguno,0,5635,107,sentado,sentado
+C,rf,ninguno,0,5636,107,sentado,sentado
+C,rf,ninguno,0,5637,107,sentado,sentado
+C,rf,ninguno,0,5638,107,sentado,sentado
+C,rf,ninguno,0,5639,107,sentado,sentado
+C,rf,ninguno,0,5640,107,sentado,sentado
+C,rf,ninguno,0,5641,107,sentado,sentado
+C,rf,ninguno,0,5642,107,sentado,sentado
+C,rf,ninguno,0,5643,107,sentado,sentado
+C,rf,ninguno,0,5644,107,sentado,sentado
+C,rf,ninguno,0,5645,107,sentado,sentado
+C,rf,ninguno,0,5646,107,sentado,sentado
+C,rf,ninguno,0,5647,107,sentado,sentado
+C,rf,ninguno,0,5648,107,sentado,sentado
+C,rf,ninguno,0,5649,107,sentado,sentado
+C,rf,ninguno,0,5650,107,sentado,sentado
+C,rf,ninguno,0,5651,107,sentado,sentado
+C,rf,ninguno,0,5652,107,sentado,sentado
+C,rf,ninguno,0,5653,107,sentado,sentado
+C,rf,ninguno,0,5654,107,sentado,sentado
+C,rf,ninguno,0,5655,107,sentado,sentado
+C,rf,ninguno,0,5656,107,sentado,sentado
+C,rf,ninguno,0,5657,107,sentado,sentado
+C,rf,ninguno,0,5658,107,sentado,sentado
+C,rf,ninguno,0,5659,107,sentado,sentado
+C,rf,ninguno,0,5660,107,sentado,sentado
+C,rf,ninguno,0,5661,107,sentado,sentado
+C,rf,ninguno,0,5662,107,sentado,sentado
+C,rf,ninguno,0,5663,107,sentado,sentado
+C,rf,ninguno,0,5664,107,sentado,sentado
+C,rf,ninguno,0,5665,107,de pie,de pie
+C,rf,ninguno,0,5666,107,de pie,de pie
+C,rf,ninguno,0,5667,107,de pie,de pie
+C,rf,ninguno,0,5668,107,de pie,de pie
+C,rf,ninguno,0,5669,107,de pie,de pie
+C,rf,ninguno,0,5670,107,de pie,de pie
+C,rf,ninguno,0,5671,107,de pie,de pie
+C,rf,ninguno,0,5672,107,de pie,de pie
+C,rf,ninguno,0,5673,107,de pie,de pie
+C,rf,ninguno,0,5674,107,de pie,de pie
+C,rf,ninguno,0,5675,107,de pie,de pie
+C,rf,ninguno,0,5676,107,de pie,de pie
+C,rf,ninguno,0,5677,107,de pie,de pie
+C,rf,ninguno,0,5678,107,de pie,de pie
+C,rf,ninguno,0,5679,107,de pie,de pie
+C,rf,ninguno,0,5680,107,de pie,de pie
+C,rf,ninguno,0,5681,107,de pie,de pie
+C,rf,ninguno,0,5682,107,de pie,de pie
+C,rf,ninguno,0,5683,107,de pie,de pie
+C,rf,ninguno,0,5684,107,de pie,de pie
+C,rf,ninguno,0,5685,107,de pie,de pie
+C,rf,ninguno,0,5686,107,de pie,de pie
+C,rf,ninguno,0,5687,107,de pie,de pie
+C,rf,ninguno,0,5688,107,de pie,de pie
+C,rf,ninguno,0,5689,107,de pie,de pie
+C,rf,ninguno,0,5690,107,de pie,de pie
+C,rf,ninguno,0,5691,107,de pie,de pie
+C,rf,ninguno,0,5692,107,de pie,de pie
+C,rf,ninguno,0,5693,107,de pie,de pie
+C,rf,ninguno,0,5694,107,de pie,de pie
+C,rf,ninguno,0,5695,107,de pie,de pie
+C,rf,ninguno,0,5696,107,de pie,de pie
+C,rf,ninguno,0,5697,107,de pie,de pie
+C,rf,ninguno,0,5698,107,de pie,de pie
+C,rf,ninguno,0,5699,107,de pie,de pie
+C,rf,ninguno,0,5700,107,de pie,de pie
+C,rf,ninguno,0,5701,107,de pie,de pie
+C,rf,ninguno,0,5702,107,de pie,de pie
+C,rf,ninguno,0,5703,107,de pie,de pie
+C,rf,ninguno,0,5704,107,de pie,de pie
+C,rf,ninguno,0,5705,107,de pie,de pie
+C,rf,ninguno,0,5706,107,de pie,de pie
+C,rf,ninguno,0,5707,107,de pie,de pie
+C,rf,ninguno,0,5708,107,de pie,de pie
+C,rf,ninguno,0,5709,107,de pie,de pie
+C,rf,ninguno,0,5710,107,de pie,de pie
+C,rf,ninguno,0,5711,107,de pie,de pie
+C,rf,ninguno,0,5712,107,de pie,de pie
+C,rf,ninguno,0,5713,107,de pie,de pie
+C,rf,ninguno,0,5714,107,de pie,de pie
+C,rf,ninguno,0,5715,107,de pie,de pie
+C,rf,ninguno,0,5716,107,de pie,de pie
+C,rf,ninguno,0,5717,107,de pie,de pie
+C,rf,ninguno,0,5718,107,de pie,de pie
+C,rf,ninguno,0,5719,107,de pie,de pie
+C,rf,ninguno,0,5720,107,de pie,de pie
+C,rf,ninguno,0,5721,107,de pie,de pie
+C,rf,ninguno,0,5722,107,de pie,de pie
+C,rf,ninguno,0,5723,107,de pie,de pie
+C,rf,ninguno,0,5724,107,de pie,de pie
+C,rf,ninguno,0,5725,107,de pie,de pie
+C,rf,ninguno,0,5726,107,de pie,de pie
+C,rf,ninguno,0,5727,107,de pie,de pie
+C,rf,ninguno,0,5728,107,de pie,de pie
+C,rf,ninguno,0,5729,107,de pie,de pie
+C,rf,ninguno,0,5730,107,de pie,de pie
+C,rf,ninguno,0,5731,107,de pie,de pie
+C,rf,ninguno,0,5732,107,de pie,de pie
+C,rf,ninguno,0,5733,107,de pie,de pie
+C,rf,ninguno,0,5734,107,de pie,de pie
+C,rf,ninguno,0,5735,107,de pie,de pie
+C,rf,ninguno,0,5736,107,de pie,de pie
+C,rf,ninguno,0,5737,107,de pie,de pie
+C,rf,ninguno,0,5738,107,de pie,de pie
+C,rf,ninguno,0,5739,107,de pie,de pie
+C,rf,ninguno,0,5740,107,de pie,de pie
+C,rf,ninguno,0,5741,107,de pie,de pie
+C,rf,ninguno,0,5742,107,de pie,de pie
+C,rf,ninguno,0,5743,107,de pie,de pie
+C,rf,ninguno,0,5744,107,de pie,de pie
+C,rf,ninguno,0,5745,107,de pie,de pie
+C,rf,ninguno,0,5746,107,de pie,de pie
+C,rf,ninguno,0,5747,107,de pie,de pie
+C,rf,ninguno,0,5748,107,de pie,de pie
+C,rf,ninguno,0,5749,107,de pie,de pie
+C,rf,ninguno,0,5750,107,de pie,de pie
+C,rf,ninguno,0,5751,107,de pie,de pie
+C,rf,ninguno,0,5752,107,de pie,de pie
+C,rf,ninguno,0,5753,107,de pie,de pie
+C,rf,ninguno,0,5754,107,de pie,de pie
+C,rf,ninguno,0,5755,107,de pie,de pie
+C,rf,ninguno,0,5756,107,de pie,de pie
+C,rf,ninguno,0,5757,107,de pie,de pie
+C,rf,ninguno,0,5758,107,de pie,de pie
+C,rf,ninguno,0,5759,107,de pie,de pie
+C,rf,ninguno,0,5760,107,de pie,de pie
+C,rf,ninguno,0,5761,107,de pie,de pie
+C,rf,ninguno,0,5762,107,de pie,de pie
+C,rf,ninguno,0,5763,107,de pie,de pie
+C,rf,ninguno,0,5764,107,planchar,de pie
+C,rf,ninguno,0,5765,107,planchar,de pie
+C,rf,ninguno,0,5766,107,planchar,aspirar
+C,rf,ninguno,0,5767,107,planchar,aspirar
+C,rf,ninguno,0,5768,107,planchar,planchar
+C,rf,ninguno,0,5769,107,planchar,planchar
+C,rf,ninguno,0,5770,107,planchar,planchar
+C,rf,ninguno,0,5771,107,planchar,planchar
+C,rf,ninguno,0,5772,107,planchar,planchar
+C,rf,ninguno,0,5773,107,planchar,planchar
+C,rf,ninguno,0,5774,107,planchar,planchar
+C,rf,ninguno,0,5775,107,planchar,planchar
+C,rf,ninguno,0,5776,107,planchar,planchar
+C,rf,ninguno,0,5777,107,planchar,planchar
+C,rf,ninguno,0,5778,107,planchar,planchar
+C,rf,ninguno,0,5779,107,planchar,planchar
+C,rf,ninguno,0,5780,107,planchar,planchar
+C,rf,ninguno,0,5781,107,planchar,planchar
+C,rf,ninguno,0,5782,107,planchar,planchar
+C,rf,ninguno,0,5783,107,planchar,planchar
+C,rf,ninguno,0,5784,107,planchar,planchar
+C,rf,ninguno,0,5785,107,planchar,planchar
+C,rf,ninguno,0,5786,107,planchar,planchar
+C,rf,ninguno,0,5787,107,planchar,planchar
+C,rf,ninguno,0,5788,107,planchar,planchar
+C,rf,ninguno,0,5789,107,planchar,planchar
+C,rf,ninguno,0,5790,107,planchar,planchar
+C,rf,ninguno,0,5791,107,planchar,planchar
+C,rf,ninguno,0,5792,107,planchar,planchar
+C,rf,ninguno,0,5793,107,planchar,planchar
+C,rf,ninguno,0,5794,107,planchar,planchar
+C,rf,ninguno,0,5795,107,planchar,planchar
+C,rf,ninguno,0,5796,107,planchar,planchar
+C,rf,ninguno,0,5797,107,planchar,planchar
+C,rf,ninguno,0,5798,107,planchar,planchar
+C,rf,ninguno,0,5799,107,planchar,planchar
+C,rf,ninguno,0,5800,107,planchar,planchar
+C,rf,ninguno,0,5801,107,planchar,planchar
+C,rf,ninguno,0,5802,107,planchar,planchar
+C,rf,ninguno,0,5803,107,planchar,planchar
+C,rf,ninguno,0,5804,107,planchar,planchar
+C,rf,ninguno,0,5805,107,planchar,planchar
+C,rf,ninguno,0,5806,107,planchar,planchar
+C,rf,ninguno,0,5807,107,planchar,planchar
+C,rf,ninguno,0,5808,107,planchar,planchar
+C,rf,ninguno,0,5809,107,planchar,planchar
+C,rf,ninguno,0,5810,107,planchar,planchar
+C,rf,ninguno,0,5811,107,planchar,planchar
+C,rf,ninguno,0,5812,107,planchar,planchar
+C,rf,ninguno,0,5813,107,planchar,planchar
+C,rf,ninguno,0,5814,107,planchar,planchar
+C,rf,ninguno,0,5815,107,planchar,planchar
+C,rf,ninguno,0,5816,107,planchar,planchar
+C,rf,ninguno,0,5817,107,planchar,planchar
+C,rf,ninguno,0,5818,107,planchar,planchar
+C,rf,ninguno,0,5819,107,planchar,planchar
+C,rf,ninguno,0,5820,107,planchar,planchar
+C,rf,ninguno,0,5821,107,planchar,planchar
+C,rf,ninguno,0,5822,107,planchar,planchar
+C,rf,ninguno,0,5823,107,planchar,planchar
+C,rf,ninguno,0,5824,107,planchar,planchar
+C,rf,ninguno,0,5825,107,planchar,planchar
+C,rf,ninguno,0,5826,107,planchar,planchar
+C,rf,ninguno,0,5827,107,planchar,planchar
+C,rf,ninguno,0,5828,107,planchar,planchar
+C,rf,ninguno,0,5829,107,planchar,planchar
+C,rf,ninguno,0,5830,107,planchar,planchar
+C,rf,ninguno,0,5831,107,planchar,planchar
+C,rf,ninguno,0,5832,107,planchar,planchar
+C,rf,ninguno,0,5833,107,planchar,planchar
+C,rf,ninguno,0,5834,107,planchar,planchar
+C,rf,ninguno,0,5835,107,planchar,planchar
+C,rf,ninguno,0,5836,107,planchar,planchar
+C,rf,ninguno,0,5837,107,planchar,planchar
+C,rf,ninguno,0,5838,107,planchar,planchar
+C,rf,ninguno,0,5839,107,planchar,planchar
+C,rf,ninguno,0,5840,107,planchar,planchar
+C,rf,ninguno,0,5841,107,planchar,planchar
+C,rf,ninguno,0,5842,107,planchar,planchar
+C,rf,ninguno,0,5843,107,planchar,planchar
+C,rf,ninguno,0,5844,107,planchar,planchar
+C,rf,ninguno,0,5845,107,planchar,planchar
+C,rf,ninguno,0,5846,107,planchar,planchar
+C,rf,ninguno,0,5847,107,planchar,planchar
+C,rf,ninguno,0,5848,107,planchar,planchar
+C,rf,ninguno,0,5849,107,planchar,planchar
+C,rf,ninguno,0,5850,107,planchar,planchar
+C,rf,ninguno,0,5851,107,planchar,planchar
+C,rf,ninguno,0,5852,107,planchar,planchar
+C,rf,ninguno,0,5853,107,planchar,planchar
+C,rf,ninguno,0,5854,107,planchar,planchar
+C,rf,ninguno,0,5855,107,planchar,planchar
+C,rf,ninguno,0,5856,107,planchar,planchar
+C,rf,ninguno,0,5857,107,planchar,planchar
+C,rf,ninguno,0,5858,107,planchar,planchar
+C,rf,ninguno,0,5859,107,planchar,planchar
+C,rf,ninguno,0,5860,107,planchar,planchar
+C,rf,ninguno,0,5861,107,planchar,planchar
+C,rf,ninguno,0,5862,107,planchar,planchar
+C,rf,ninguno,0,5863,107,planchar,planchar
+C,rf,ninguno,0,5864,107,planchar,planchar
+C,rf,ninguno,0,5865,107,planchar,planchar
+C,rf,ninguno,0,5866,107,planchar,planchar
+C,rf,ninguno,0,5867,107,planchar,planchar
+C,rf,ninguno,0,5868,107,planchar,planchar
+C,rf,ninguno,0,5869,107,planchar,planchar
+C,rf,ninguno,0,5870,107,planchar,planchar
+C,rf,ninguno,0,5871,107,planchar,planchar
+C,rf,ninguno,0,5872,107,planchar,planchar
+C,rf,ninguno,0,5873,107,planchar,planchar
+C,rf,ninguno,0,5874,107,planchar,planchar
+C,rf,ninguno,0,5875,107,planchar,planchar
+C,rf,ninguno,0,5876,107,planchar,planchar
+C,rf,ninguno,0,5877,107,planchar,de pie
+C,rf,ninguno,0,5878,107,aspirar,de pie
+C,rf,ninguno,0,5879,107,aspirar,planchar
+C,rf,ninguno,0,5880,107,aspirar,aspirar
+C,rf,ninguno,0,5881,107,aspirar,aspirar
+C,rf,ninguno,0,5882,107,aspirar,aspirar
+C,rf,ninguno,0,5883,107,aspirar,aspirar
+C,rf,ninguno,0,5884,107,aspirar,aspirar
+C,rf,ninguno,0,5885,107,aspirar,aspirar
+C,rf,ninguno,0,5886,107,aspirar,aspirar
+C,rf,ninguno,0,5887,107,aspirar,aspirar
+C,rf,ninguno,0,5888,107,aspirar,aspirar
+C,rf,ninguno,0,5889,107,aspirar,aspirar
+C,rf,ninguno,0,5890,107,aspirar,aspirar
+C,rf,ninguno,0,5891,107,aspirar,aspirar
+C,rf,ninguno,0,5892,107,aspirar,aspirar
+C,rf,ninguno,0,5893,107,aspirar,aspirar
+C,rf,ninguno,0,5894,107,aspirar,aspirar
+C,rf,ninguno,0,5895,107,aspirar,aspirar
+C,rf,ninguno,0,5896,107,aspirar,aspirar
+C,rf,ninguno,0,5897,107,aspirar,aspirar
+C,rf,ninguno,0,5898,107,aspirar,aspirar
+C,rf,ninguno,0,5899,107,aspirar,aspirar
+C,rf,ninguno,0,5900,107,aspirar,aspirar
+C,rf,ninguno,0,5901,107,aspirar,aspirar
+C,rf,ninguno,0,5902,107,aspirar,aspirar
+C,rf,ninguno,0,5903,107,aspirar,aspirar
+C,rf,ninguno,0,5904,107,aspirar,aspirar
+C,rf,ninguno,0,5905,107,aspirar,aspirar
+C,rf,ninguno,0,5906,107,aspirar,aspirar
+C,rf,ninguno,0,5907,107,aspirar,aspirar
+C,rf,ninguno,0,5908,107,aspirar,aspirar
+C,rf,ninguno,0,5909,107,aspirar,aspirar
+C,rf,ninguno,0,5910,107,aspirar,aspirar
+C,rf,ninguno,0,5911,107,aspirar,aspirar
+C,rf,ninguno,0,5912,107,aspirar,aspirar
+C,rf,ninguno,0,5913,107,aspirar,aspirar
+C,rf,ninguno,0,5914,107,aspirar,aspirar
+C,rf,ninguno,0,5915,107,aspirar,aspirar
+C,rf,ninguno,0,5916,107,aspirar,planchar
+C,rf,ninguno,0,5917,107,aspirar,planchar
+C,rf,ninguno,0,5918,107,aspirar,planchar
+C,rf,ninguno,0,5919,107,aspirar,planchar
+C,rf,ninguno,0,5920,107,aspirar,aspirar
+C,rf,ninguno,0,5921,107,aspirar,aspirar
+C,rf,ninguno,0,5922,107,aspirar,planchar
+C,rf,ninguno,0,5923,107,aspirar,aspirar
+C,rf,ninguno,0,5924,107,aspirar,aspirar
+C,rf,ninguno,0,5925,107,aspirar,planchar
+C,rf,ninguno,0,5926,107,aspirar,planchar
+C,rf,ninguno,0,5927,107,aspirar,planchar
+C,rf,ninguno,0,5928,107,aspirar,aspirar
+C,rf,ninguno,0,5929,107,aspirar,aspirar
+C,rf,ninguno,0,5930,107,aspirar,aspirar
+C,rf,ninguno,0,5931,107,aspirar,aspirar
+C,rf,ninguno,0,5932,107,aspirar,aspirar
+C,rf,ninguno,0,5933,107,aspirar,aspirar
+C,rf,ninguno,0,5934,107,aspirar,aspirar
+C,rf,ninguno,0,5935,107,aspirar,aspirar
+C,rf,ninguno,0,5936,107,aspirar,aspirar
+C,rf,ninguno,0,5937,107,aspirar,aspirar
+C,rf,ninguno,0,5938,107,aspirar,aspirar
+C,rf,ninguno,0,5939,107,aspirar,aspirar
+C,rf,ninguno,0,5940,107,aspirar,aspirar
+C,rf,ninguno,0,5941,107,aspirar,aspirar
+C,rf,ninguno,0,5942,107,aspirar,aspirar
+C,rf,ninguno,0,5943,107,aspirar,aspirar
+C,rf,ninguno,0,5944,107,aspirar,aspirar
+C,rf,ninguno,0,5945,107,aspirar,aspirar
+C,rf,ninguno,0,5946,107,aspirar,aspirar
+C,rf,ninguno,0,5947,107,aspirar,aspirar
+C,rf,ninguno,0,5948,107,aspirar,aspirar
+C,rf,ninguno,0,5949,107,aspirar,aspirar
+C,rf,ninguno,0,5950,107,aspirar,aspirar
+C,rf,ninguno,0,5951,107,aspirar,aspirar
+C,rf,ninguno,0,5952,107,aspirar,aspirar
+C,rf,ninguno,0,5953,107,aspirar,aspirar
+C,rf,ninguno,0,5954,107,aspirar,aspirar
+C,rf,ninguno,0,5955,107,aspirar,aspirar
+C,rf,ninguno,0,5956,107,aspirar,aspirar
+C,rf,ninguno,0,5957,107,aspirar,aspirar
+C,rf,ninguno,0,5958,107,aspirar,aspirar
+C,rf,ninguno,0,5959,107,aspirar,aspirar
+C,rf,ninguno,0,5960,107,aspirar,planchar
+C,rf,ninguno,0,5961,107,subir escaleras,de pie
+C,rf,ninguno,0,5962,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5963,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5964,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5965,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5966,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5967,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5968,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5969,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5970,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5971,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5972,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5973,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5974,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5975,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5976,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5977,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5978,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5979,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5980,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5981,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5982,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5983,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5984,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5985,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5986,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5987,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5988,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5989,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5990,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5991,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5992,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5993,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5994,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,5995,107,bajar escaleras,de pie
+C,rf,ninguno,0,5996,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,5997,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,5998,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,5999,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6000,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6001,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6002,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6003,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6004,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6005,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6006,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6007,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6008,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6009,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6010,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6011,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6012,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6013,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6014,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6015,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6016,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6017,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6018,107,subir escaleras,de pie
+C,rf,ninguno,0,6019,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6020,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6021,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6022,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6023,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6024,107,subir escaleras,caminar
+C,rf,ninguno,0,6025,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6026,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6027,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6028,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6029,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6030,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6031,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6032,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6033,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6034,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6035,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6036,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6037,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6038,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6039,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6040,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6041,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6042,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6043,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6044,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6045,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6046,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6047,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6048,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6049,107,subir escaleras,subir escaleras
+C,rf,ninguno,0,6050,107,bajar escaleras,subir escaleras
+C,rf,ninguno,0,6051,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6052,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6053,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6054,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6055,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6056,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6057,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6058,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6059,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6060,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6061,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6062,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6063,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6064,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6065,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6066,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6067,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6068,107,bajar escaleras,bajar escaleras
+C,rf,ninguno,0,6069,107,caminar,de pie
+C,rf,ninguno,0,6070,107,caminar,caminar
+C,rf,ninguno,0,6071,107,caminar,caminar
+C,rf,ninguno,0,6072,107,caminar,caminar
+C,rf,ninguno,0,6073,107,caminar,caminar
+C,rf,ninguno,0,6074,107,caminar,caminar
+C,rf,ninguno,0,6075,107,caminar,caminar
+C,rf,ninguno,0,6076,107,caminar,caminar
+C,rf,ninguno,0,6077,107,caminar,caminar
+C,rf,ninguno,0,6078,107,caminar,caminar
+C,rf,ninguno,0,6079,107,caminar,caminar
+C,rf,ninguno,0,6080,107,caminar,caminar
+C,rf,ninguno,0,6081,107,caminar,caminar
+C,rf,ninguno,0,6082,107,caminar,caminar
+C,rf,ninguno,0,6083,107,caminar,caminar
+C,rf,ninguno,0,6084,107,caminar,caminar
+C,rf,ninguno,0,6085,107,caminar,caminar
+C,rf,ninguno,0,6086,107,caminar,caminar
+C,rf,ninguno,0,6087,107,caminar,caminar
+C,rf,ninguno,0,6088,107,caminar,caminar
+C,rf,ninguno,0,6089,107,caminar,caminar
+C,rf,ninguno,0,6090,107,caminar,caminar
+C,rf,ninguno,0,6091,107,caminar,caminar
+C,rf,ninguno,0,6092,107,caminar,caminar
+C,rf,ninguno,0,6093,107,caminar,caminar
+C,rf,ninguno,0,6094,107,caminar,caminar
+C,rf,ninguno,0,6095,107,caminar,caminar
+C,rf,ninguno,0,6096,107,caminar,caminar
+C,rf,ninguno,0,6097,107,caminar,caminar
+C,rf,ninguno,0,6098,107,caminar,caminar
+C,rf,ninguno,0,6099,107,caminar,caminar
+C,rf,ninguno,0,6100,107,caminar,caminar
+C,rf,ninguno,0,6101,107,caminar,caminar
+C,rf,ninguno,0,6102,107,caminar,caminar
+C,rf,ninguno,0,6103,107,caminar,caminar
+C,rf,ninguno,0,6104,107,caminar,caminar
+C,rf,ninguno,0,6105,107,caminar,caminar
+C,rf,ninguno,0,6106,107,caminar,caminar
+C,rf,ninguno,0,6107,107,caminar,caminar
+C,rf,ninguno,0,6108,107,caminar,caminar
+C,rf,ninguno,0,6109,107,caminar,caminar
+C,rf,ninguno,0,6110,107,caminar,caminar
+C,rf,ninguno,0,6111,107,caminar,caminar
+C,rf,ninguno,0,6112,107,caminar,caminar
+C,rf,ninguno,0,6113,107,caminar,caminar
+C,rf,ninguno,0,6114,107,caminar,caminar
+C,rf,ninguno,0,6115,107,caminar,caminar
+C,rf,ninguno,0,6116,107,caminar,caminar
+C,rf,ninguno,0,6117,107,caminar,caminar
+C,rf,ninguno,0,6118,107,caminar,caminar
+C,rf,ninguno,0,6119,107,caminar,caminar
+C,rf,ninguno,0,6120,107,caminar,caminar
+C,rf,ninguno,0,6121,107,caminar,caminar
+C,rf,ninguno,0,6122,107,caminar,caminar
+C,rf,ninguno,0,6123,107,caminar,caminar
+C,rf,ninguno,0,6124,107,caminar,caminar
+C,rf,ninguno,0,6125,107,caminar,caminar
+C,rf,ninguno,0,6126,107,caminar,caminar
+C,rf,ninguno,0,6127,107,caminar,caminar
+C,rf,ninguno,0,6128,107,caminar,caminar
+C,rf,ninguno,0,6129,107,caminar,caminar
+C,rf,ninguno,0,6130,107,caminar,caminar
+C,rf,ninguno,0,6131,107,caminar,caminar
+C,rf,ninguno,0,6132,107,caminar,caminar
+C,rf,ninguno,0,6133,107,caminar,caminar
+C,rf,ninguno,0,6134,107,caminar,caminar
+C,rf,ninguno,0,6135,107,caminar,caminar
+C,rf,ninguno,0,6136,107,caminar,caminar
+C,rf,ninguno,0,6137,107,caminar,caminar
+C,rf,ninguno,0,6138,107,caminar,caminar
+C,rf,ninguno,0,6139,107,caminar,caminar
+C,rf,ninguno,0,6140,107,caminar,caminar
+C,rf,ninguno,0,6141,107,caminar,caminar
+C,rf,ninguno,0,6142,107,caminar,caminar
+C,rf,ninguno,0,6143,107,caminar,caminar
+C,rf,ninguno,0,6144,107,caminar,caminar
+C,rf,ninguno,0,6145,107,caminar,caminar
+C,rf,ninguno,0,6146,107,caminar,caminar
+C,rf,ninguno,0,6147,107,caminar,caminar
+C,rf,ninguno,0,6148,107,caminar,caminar
+C,rf,ninguno,0,6149,107,caminar,caminar
+C,rf,ninguno,0,6150,107,caminar,caminar
+C,rf,ninguno,0,6151,107,caminar,caminar
+C,rf,ninguno,0,6152,107,caminar,caminar
+C,rf,ninguno,0,6153,107,caminar,caminar
+C,rf,ninguno,0,6154,107,caminar,caminar
+C,rf,ninguno,0,6155,107,caminar,caminar
+C,rf,ninguno,0,6156,107,caminar,caminar
+C,rf,ninguno,0,6157,107,caminar,caminar
+C,rf,ninguno,0,6158,107,caminar,caminar
+C,rf,ninguno,0,6159,107,caminar,caminar
+C,rf,ninguno,0,6160,107,caminar,caminar
+C,rf,ninguno,0,6161,107,caminar,caminar
+C,rf,ninguno,0,6162,107,caminar,caminar
+C,rf,ninguno,0,6163,107,caminar,caminar
+C,rf,ninguno,0,6164,107,caminar,caminar
+C,rf,ninguno,0,6165,107,caminar,caminar
+C,rf,ninguno,0,6166,107,caminar,caminar
+C,rf,ninguno,0,6167,107,caminar,caminar
+C,rf,ninguno,0,6168,107,caminar,caminar
+C,rf,ninguno,0,6169,107,caminar,caminar
+C,rf,ninguno,0,6170,107,caminar,caminar
+C,rf,ninguno,0,6171,107,caminar,caminar
+C,rf,ninguno,0,6172,107,caminar,caminar
+C,rf,ninguno,0,6173,107,caminar,caminar
+C,rf,ninguno,0,6174,107,caminar,caminar
+C,rf,ninguno,0,6175,107,caminar,caminar
+C,rf,ninguno,0,6176,107,caminar,caminar
+C,rf,ninguno,0,6177,107,caminar,caminar
+C,rf,ninguno,0,6178,107,caminar,caminar
+C,rf,ninguno,0,6179,107,caminar,caminar
+C,rf,ninguno,0,6180,107,caminar,caminar
+C,rf,ninguno,0,6181,107,caminar,caminar
+C,rf,ninguno,0,6182,107,caminar,caminar
+C,rf,ninguno,0,6183,107,caminar,caminar
+C,rf,ninguno,0,6184,107,caminar,caminar
+C,rf,ninguno,0,6185,107,caminar,caminar
+C,rf,ninguno,0,6186,107,caminar,caminar
+C,rf,ninguno,0,6187,107,caminar,caminar
+C,rf,ninguno,0,6188,107,caminar,caminar
+C,rf,ninguno,0,6189,107,caminar,caminar
+C,rf,ninguno,0,6190,107,caminar,caminar
+C,rf,ninguno,0,6191,107,caminar,caminar
+C,rf,ninguno,0,6192,107,caminar,caminar
+C,rf,ninguno,0,6193,107,caminar,caminar
+C,rf,ninguno,0,6194,107,caminar,caminar
+C,rf,ninguno,0,6195,107,caminar,caminar
+C,rf,ninguno,0,6196,107,caminar,caminar
+C,rf,ninguno,0,6197,107,caminar,caminar
+C,rf,ninguno,0,6198,107,caminar,subir escaleras
+C,rf,ninguno,0,6199,107,caminata nórdica,sentado
+C,rf,ninguno,0,6200,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6201,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6202,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6203,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6204,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6205,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6206,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6207,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6208,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6209,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6210,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6211,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6212,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6213,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6214,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6215,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6216,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6217,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6218,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6219,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6220,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6221,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6222,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6223,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6224,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6225,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6226,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6227,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6228,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6229,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6230,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6231,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6232,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6233,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6234,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6235,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6236,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6237,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6238,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6239,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6240,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6241,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6242,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6243,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6244,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6245,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6246,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6247,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6248,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6249,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6250,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6251,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6252,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6253,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6254,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6255,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6256,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6257,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6258,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6259,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6260,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6261,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6262,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6263,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6264,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6265,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6266,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6267,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6268,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6269,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6270,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6271,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6272,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6273,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6274,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6275,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6276,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6277,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6278,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6279,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6280,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6281,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6282,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6283,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6284,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6285,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6286,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6287,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6288,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6289,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6290,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6291,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6292,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6293,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6294,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6295,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6296,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6297,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6298,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6299,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6300,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6301,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6302,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6303,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6304,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6305,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6306,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6307,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6308,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6309,107,caminata nórdica,caminata nórdica
+C,rf,ninguno,0,6310,107,bicicleta,sentado
+C,rf,ninguno,0,6311,107,bicicleta,planchar
+C,rf,ninguno,0,6312,107,bicicleta,planchar
+C,rf,ninguno,0,6313,107,bicicleta,bicicleta
+C,rf,ninguno,0,6314,107,bicicleta,bicicleta
+C,rf,ninguno,0,6315,107,bicicleta,bicicleta
+C,rf,ninguno,0,6316,107,bicicleta,bicicleta
+C,rf,ninguno,0,6317,107,bicicleta,bicicleta
+C,rf,ninguno,0,6318,107,bicicleta,bicicleta
+C,rf,ninguno,0,6319,107,bicicleta,bicicleta
+C,rf,ninguno,0,6320,107,bicicleta,bicicleta
+C,rf,ninguno,0,6321,107,bicicleta,bicicleta
+C,rf,ninguno,0,6322,107,bicicleta,bicicleta
+C,rf,ninguno,0,6323,107,bicicleta,bicicleta
+C,rf,ninguno,0,6324,107,bicicleta,bicicleta
+C,rf,ninguno,0,6325,107,bicicleta,bicicleta
+C,rf,ninguno,0,6326,107,bicicleta,bicicleta
+C,rf,ninguno,0,6327,107,bicicleta,bicicleta
+C,rf,ninguno,0,6328,107,bicicleta,bicicleta
+C,rf,ninguno,0,6329,107,bicicleta,bicicleta
+C,rf,ninguno,0,6330,107,bicicleta,bicicleta
+C,rf,ninguno,0,6331,107,bicicleta,bicicleta
+C,rf,ninguno,0,6332,107,bicicleta,bicicleta
+C,rf,ninguno,0,6333,107,bicicleta,bicicleta
+C,rf,ninguno,0,6334,107,bicicleta,bicicleta
+C,rf,ninguno,0,6335,107,bicicleta,bicicleta
+C,rf,ninguno,0,6336,107,bicicleta,bicicleta
+C,rf,ninguno,0,6337,107,bicicleta,bicicleta
+C,rf,ninguno,0,6338,107,bicicleta,bicicleta
+C,rf,ninguno,0,6339,107,bicicleta,bicicleta
+C,rf,ninguno,0,6340,107,bicicleta,bicicleta
+C,rf,ninguno,0,6341,107,bicicleta,bicicleta
+C,rf,ninguno,0,6342,107,bicicleta,bicicleta
+C,rf,ninguno,0,6343,107,bicicleta,bicicleta
+C,rf,ninguno,0,6344,107,bicicleta,bicicleta
+C,rf,ninguno,0,6345,107,bicicleta,bicicleta
+C,rf,ninguno,0,6346,107,bicicleta,bicicleta
+C,rf,ninguno,0,6347,107,bicicleta,bicicleta
+C,rf,ninguno,0,6348,107,bicicleta,bicicleta
+C,rf,ninguno,0,6349,107,bicicleta,bicicleta
+C,rf,ninguno,0,6350,107,bicicleta,bicicleta
+C,rf,ninguno,0,6351,107,bicicleta,bicicleta
+C,rf,ninguno,0,6352,107,bicicleta,bicicleta
+C,rf,ninguno,0,6353,107,bicicleta,bicicleta
+C,rf,ninguno,0,6354,107,bicicleta,bicicleta
+C,rf,ninguno,0,6355,107,bicicleta,bicicleta
+C,rf,ninguno,0,6356,107,bicicleta,bicicleta
+C,rf,ninguno,0,6357,107,bicicleta,bicicleta
+C,rf,ninguno,0,6358,107,bicicleta,bicicleta
+C,rf,ninguno,0,6359,107,bicicleta,bicicleta
+C,rf,ninguno,0,6360,107,bicicleta,bicicleta
+C,rf,ninguno,0,6361,107,bicicleta,bicicleta
+C,rf,ninguno,0,6362,107,bicicleta,bicicleta
+C,rf,ninguno,0,6363,107,bicicleta,bicicleta
+C,rf,ninguno,0,6364,107,bicicleta,bicicleta
+C,rf,ninguno,0,6365,107,bicicleta,bicicleta
+C,rf,ninguno,0,6366,107,bicicleta,bicicleta
+C,rf,ninguno,0,6367,107,bicicleta,bicicleta
+C,rf,ninguno,0,6368,107,bicicleta,bicicleta
+C,rf,ninguno,0,6369,107,bicicleta,bicicleta
+C,rf,ninguno,0,6370,107,bicicleta,bicicleta
+C,rf,ninguno,0,6371,107,bicicleta,bicicleta
+C,rf,ninguno,0,6372,107,bicicleta,bicicleta
+C,rf,ninguno,0,6373,107,bicicleta,bicicleta
+C,rf,ninguno,0,6374,107,bicicleta,bicicleta
+C,rf,ninguno,0,6375,107,bicicleta,bicicleta
+C,rf,ninguno,0,6376,107,bicicleta,bicicleta
+C,rf,ninguno,0,6377,107,bicicleta,bicicleta
+C,rf,ninguno,0,6378,107,bicicleta,bicicleta
+C,rf,ninguno,0,6379,107,bicicleta,bicicleta
+C,rf,ninguno,0,6380,107,bicicleta,bicicleta
+C,rf,ninguno,0,6381,107,bicicleta,bicicleta
+C,rf,ninguno,0,6382,107,bicicleta,bicicleta
+C,rf,ninguno,0,6383,107,bicicleta,bicicleta
+C,rf,ninguno,0,6384,107,bicicleta,bicicleta
+C,rf,ninguno,0,6385,107,bicicleta,bicicleta
+C,rf,ninguno,0,6386,107,bicicleta,bicicleta
+C,rf,ninguno,0,6387,107,bicicleta,bicicleta
+C,rf,ninguno,0,6388,107,bicicleta,bicicleta
+C,rf,ninguno,0,6389,107,bicicleta,bicicleta
+C,rf,ninguno,0,6390,107,bicicleta,bicicleta
+C,rf,ninguno,0,6391,107,bicicleta,bicicleta
+C,rf,ninguno,0,6392,107,bicicleta,bicicleta
+C,rf,ninguno,0,6393,107,bicicleta,bicicleta
+C,rf,ninguno,0,6394,107,bicicleta,bicicleta
+C,rf,ninguno,0,6395,107,bicicleta,aspirar
+C,rf,ninguno,0,6396,107,bicicleta,aspirar
+C,rf,ninguno,0,6397,107,correr,de pie
+C,rf,ninguno,0,6398,107,correr,de pie
+C,rf,ninguno,0,6399,107,correr,bajar escaleras
+C,rf,ninguno,0,6400,107,correr,correr
+C,rf,ninguno,0,6401,107,correr,correr
+C,rf,ninguno,0,6402,107,correr,correr
+C,rf,ninguno,0,6403,107,correr,correr
+C,rf,ninguno,0,6404,107,correr,correr
+C,rf,ninguno,0,6405,107,correr,correr
+C,rf,ninguno,0,6406,107,correr,correr
+C,rf,ninguno,0,6407,107,correr,correr
+C,rf,ninguno,0,6408,107,correr,correr
+C,rf,ninguno,0,6409,107,correr,correr

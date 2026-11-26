@@ -1,0 +1,56 @@
+[
+ {
+  "fold": 0,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9066
+ },
+ {
+  "fold": 1,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9085
+ },
+ {
+  "fold": 2,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9068
+ },
+ {
+  "fold": 3,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9055
+ },
+ {
+  "fold": 4,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9158
+ },
+ {
+  "fold": 5,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9144
+ },
+ {
+  "fold": 6,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9113
+ },
+ {
+  "fold": 7,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9161
+ },
+ {
+  "fold": 8,
+  "modelo__n_neighbors": 5,
+  "modelo__weights": "distance",
+  "f1_interno": 0.9156
+ }
+]

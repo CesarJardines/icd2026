@@ -1,0 +1,5 @@
+,modelo,F1 A,F1 A′,F1 B,A − A′ (vecindad),A′ − B (personas),A − B (total),desv. entre sujetos (B),¿brecha > desv.?
+PAMAP2,Random Forest,0.964,0.94,0.938,0.025,0.002,0.026,0.033,no
+PAMAP2,kNN,0.959,0.936,0.914,0.023,0.022,0.045,0.028,sí
+UCI HAR,Random Forest,0.978,0.958,0.93,0.02,0.029,0.049,0.063,no
+UCI HAR,kNN,0.963,0.921,0.893,0.042,0.027,0.069,0.057,sí

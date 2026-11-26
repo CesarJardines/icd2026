@@ -1,0 +1,4 @@
+modelo,F1 A,F1 A′,F1 B,F1 C,A − A′ (vecindad),A′ − B (personas),A − B (total),desv. entre sujetos (B),% de la brecha por vecindad,¿brecha > desv.?
+Random Forest,0.964,0.94,0.938,0.916,0.025,0.002,0.026,0.033,93.679,no
+SVM,0.972,0.948,0.923,0.909,0.025,0.025,0.049,0.045,49.627,sí
+kNN,0.959,0.936,0.914,0.928,0.023,0.022,0.045,0.028,50.562,sí

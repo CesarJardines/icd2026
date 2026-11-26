@@ -1,0 +1,7 @@
+actividad,IMU,tope ±6 g (m/s²),% muestras ±6 g en el tope,% muestras ±16 g > 6 g,máximo ±16 g (m/s²)
+correr,muñeca,62.3,1.8,2.53,155.7
+correr,pecho,61.9,0.0,0.0,58.3
+correr,tobillo,62.3,0.44,2.0,158.9
+saltar cuerda,muñeca,62.3,0.0,0.01,157.8
+saltar cuerda,pecho,61.9,0.54,0.89,153.6
+saltar cuerda,tobillo,62.3,0.35,1.66,157.4

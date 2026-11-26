@@ -1,0 +1,182 @@
+[
+ {
+  "fold": 0,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9318
+ },
+ {
+  "fold": 1,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9185
+ },
+ {
+  "fold": 2,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9323
+ },
+ {
+  "fold": 3,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9251
+ },
+ {
+  "fold": 4,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9254
+ },
+ {
+  "fold": 5,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9313
+ },
+ {
+  "fold": 6,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9261
+ },
+ {
+  "fold": 7,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9226
+ },
+ {
+  "fold": 8,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9253
+ },
+ {
+  "fold": 9,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9231
+ },
+ {
+  "fold": 10,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9246
+ },
+ {
+  "fold": 11,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9232
+ },
+ {
+  "fold": 12,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9287
+ },
+ {
+  "fold": 13,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9323
+ },
+ {
+  "fold": 14,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9281
+ },
+ {
+  "fold": 15,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9347
+ },
+ {
+  "fold": 16,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9306
+ },
+ {
+  "fold": 17,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9361
+ },
+ {
+  "fold": 18,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9339
+ },
+ {
+  "fold": 19,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9305
+ },
+ {
+  "fold": 20,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9219
+ },
+ {
+  "fold": 21,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9271
+ },
+ {
+  "fold": 22,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9178
+ },
+ {
+  "fold": 23,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9301
+ },
+ {
+  "fold": 24,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 5,
+  "f1_interno": 0.9213
+ },
+ {
+  "fold": 25,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9306
+ },
+ {
+  "fold": 26,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9276
+ },
+ {
+  "fold": 27,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9315
+ },
+ {
+  "fold": 28,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9293
+ },
+ {
+  "fold": 29,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9273
+ }
+]

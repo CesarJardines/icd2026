@@ -1,0 +1,32 @@
+[
+ {
+  "fold": 0,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9592
+ },
+ {
+  "fold": 1,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9571
+ },
+ {
+  "fold": 2,
+  "modelo__max_depth": null,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9595
+ },
+ {
+  "fold": 3,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9592
+ },
+ {
+  "fold": 4,
+  "modelo__max_depth": 20,
+  "modelo__min_samples_leaf": 1,
+  "f1_interno": 0.9575
+ }
+]
